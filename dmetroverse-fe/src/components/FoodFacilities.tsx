@@ -9,7 +9,7 @@ const FoodFacilities: React.FC = () => {
 
   const be_port = process.env.REACT_APP_BE_PORT ?? 3000;
   const be_url = process.env.REACT_APP_BE_URL ?? `http://localhost:${be_port}`;
-  const apiURL = `${be_url}/AHNR/AIIMS/`
+  const apiURL = `${be_url}/KE/KG/`
   // const apiURL = `${be_url}/${origin}/${destination}/`
 
   const [stationsData, setStationsData] = useState<StationData[]>([]);
