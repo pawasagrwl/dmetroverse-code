@@ -1,0 +1,15 @@
+# Planned Features
+
+1. Find route between more than 2 stations: Currently the website only allows to find route between 2 stations. I plan to make a feature which will allow to find route between more than 2 stations. This will be useful for those who want to visit multiple places in a day and want to find the best route to visit all those places.
+2. Food at next metro station: This feature will allow to find the food available at the next metro station. This will be useful for those who want to eat something at the next metro station.
+3. Find routes with less than or equal to given time: This feature will allow to find the routes which will take less than or equal to given time. This will be useful for those who want to spend time exploring different metro stations
+4. Language support: This feature will allow to use the website in different languages than just english and hindi.
+5. User reviews: This feature will allow users to review the metro stations and the food available at the metro stations. This will be useful for those who want to know about the metro stations and the food available at the metro stations.
+6. Reddit metro post feed: This feature will allow to see the reddit posts related to delhi metro. This will be useful for those who want to know about the latest news related to delhi metro.
+
+SUGGESTIONS
+1. Show proper details of restaurant and food on click/hover
+2. Improve UI, media queries, focus more on mobile
+3. Use icons for data for mobile
+4. Blogbird UI for reddit posts, put news than just reddit posts
+5. Metro helpline at the footer
