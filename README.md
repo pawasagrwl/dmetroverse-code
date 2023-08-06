@@ -33,6 +33,66 @@ This repository contains the frontend and backend code for the DMetroVerse websi
 
 The frontend of DMetroVerse is hosted on GitHub Pages, while the backend server is deployed on Fly.io.
 
+To successfully deploy the frontend to GitHub Pages while keeping the code in a separate repository from the main code, follow these steps:
+
+### 1. Preparing the Frontend Directory (`dmetroverse-fe`)
+
+Before pushing the code to the main code repository, ensure that there is no `.git` folder inside `dmetroverse-fe`:
+
+```bash
+rm -rf dmetroverse-fe/.git
+```
+
+### 2. Configure .gitignore in Main Repository
+
+Add the following line to the .gitignore file in your main repository. This ensures that the Git folder inside dmetroverse-fe is ignored when you push code:
+```gitignore
+dmetroverse-fe/.git/
+```
+
+### 3. Add and Push Code to Main Repository
+
+Add and push your code to the main repository as usual:
+
+```bash
+git add .
+git commit -m "Your commit message"
+git push origin main
+```
+
+### 4. Initialize Git Repository in dmetroverse-fe
+
+Navigate to the dmetroverse-fe directory and initialize a new Git repository, then add the URL for the GitHub Pages repository:
+
+```bash
+cd dmetroverse-fe
+git init
+git remote add origin YOUR_GITHUB_PAGES_URL
+```
+
+Replace YOUR_GITHUB_PAGES_URL with the actual URL for your GitHub Pages repository.
+
+### 5. Deploy Build
+
+Run the deployment script to build and deploy the frontend:
+
+```bash
+npm run deploy
+```
+
+### 6. Push Main Repository Code
+
+Finally, navigate back to your main repository directory and push the code:
+
+```bash
+cd ..
+git add .
+git commit -m "Updated dmetroverse-fe"
+git push origin main
+```
+
+By following these steps, the frontend code will be pushed without being considered as a subtree or submodule. This ensures that the dmetroverse-fe code can be deployed to GitHub Pages while the rest of the code resides in the main repository.
+
 For more information on the utilized API and endpoints, please refer to [ENDPOINTS.md](ENDPOINTS.md).
 
 ## Contributing
