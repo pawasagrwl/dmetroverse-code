@@ -4,7 +4,7 @@ import RedditPost from './RedditPost';
 import { RedditPostData } from '../common/types';
 
 const RedditPostGallery: React.FC = () => {
-  const url = 'https://www.reddit.com/r/delhi/search.json?q=metro&restrict_sr=1';
+  const url = 'https://www.reddit.com/r/delhi/search.json?q=title:metro&restrict_sr=1&sort=new&limit=100';
   const { response: redditResponse, error, isPending } = useFetch<{ data: { children: { data: RedditPostData }[] } }>(url);
 
   if (isPending) return <div>Loading...</div>
