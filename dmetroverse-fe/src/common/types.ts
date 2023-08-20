@@ -1,6 +1,6 @@
 export interface RedditPostData {
   title: string;
-  selftext: string;
+  selftext_html: string;
   url: string;
 }
 

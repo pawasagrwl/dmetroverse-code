@@ -52,7 +52,7 @@ app.use(cors(corsOptions));
 
 app.get('/', (req, res) => {
   console.log(`Plain request received from ${req.headers.referer}: ${req.ip}`);
-  res.send('This server uses cors to access delhimetrorail. If you need access, contact the developer.');
+  res.send('This server uses cors to access delhimetrorail. If you need access, contact the developer (dmetroverse@gmail.com).');
 });
 
 app.get('/:origin/:destination', async (req, res) => {
