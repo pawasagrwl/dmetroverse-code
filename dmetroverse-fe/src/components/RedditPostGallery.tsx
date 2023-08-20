@@ -12,7 +12,6 @@ const RedditPostGallery: React.FC = () => {
   if (!redditResponse || !redditResponse.data.children) return null;
 
   const posts = redditResponse.data.children.map(child => child.data);
-  console.log(posts[0])
   return (
     <div className="max-w-md mx-auto">
       <h2 className="font-bold text-2xl mb-2">Delhi Subreddit Posts about Metro:</h2>

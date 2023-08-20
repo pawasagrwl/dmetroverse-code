@@ -14,7 +14,6 @@ const RedditPost: React.FC<RedditPostProps> = ({ title, body, url }) => {
     decodedBody = `${decodedBody.substring(0, 388)}...(read more)`;
   }
   const htmlBody = parse(decodedBody);
-  console.log(htmlBody)
   return (
     <div className="border border-gray-300 rounded p-2 mb-2 overflow-hidden whitespace-wrap">
       <a href={url} className="text-decoration-none text-black" target="_blank">
