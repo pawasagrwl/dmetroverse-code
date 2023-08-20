@@ -22,7 +22,6 @@ const StationFacilities: React.FC<StationFacilitiesProps> = ({ station }) => (
             facility.detail_list.map((detail, index) => (
               <div key={index} style={{ whiteSpace: "nowrap" }}>
                 <strong>
-                  {index + 1 + facilityIndex * facility.detail_list.length}.{" "}
                   {detail.facility_name}
                 </strong>
                 <div className="flex flex-wrap">
