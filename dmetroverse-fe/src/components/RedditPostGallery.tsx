@@ -7,7 +7,7 @@ const RedditPostGallery: React.FC = () => {
   const url = 'https://www.reddit.com/r/delhi/search.json?q=title:metro&restrict_sr=1&sort=new&limit=100';
   const { response: redditResponse, error, isPending } = useFetch<{ data: { children: { data: RedditPostData }[] } }>(url);
 
-  if (isPending) return <div>Loading...</div>
+  if (isPending) return <div>Loading Reddit Posts...</div>
   if (error) return <div>Error: {error}</div>
   if (!redditResponse || !redditResponse.data.children) return null;
 

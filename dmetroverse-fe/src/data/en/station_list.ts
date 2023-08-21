@@ -146,7 +146,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -161,7 +161,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -176,7 +176,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -191,7 +191,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -206,7 +206,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -221,7 +221,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -236,7 +236,22 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator 4",
+          description_location: "Unpaid Concourse to Ground",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "11 days 3 hours 39 minutes ago",
         },
       ],
       platforms: [
@@ -560,7 +575,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -575,7 +590,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -590,7 +605,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -605,7 +620,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -620,7 +635,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -635,7 +650,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -650,7 +665,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -665,7 +680,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -680,7 +695,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -695,7 +710,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -771,31 +786,9 @@ export const station_list = [
           "icon-class": "flaticon-shop",
           detail_list: [
             {
-              facility_name: "WH SMITH",
-              purpose: "Gifts & Eatables",
-              location_description: "Paid Concourse",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "Prakash Chemist",
+              facility_name: "Metro Super Pharmacy",
               purpose: "Medicine",
               location_description: "North unpaid concourse",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "Food Tack IRCTC",
-              purpose: "Coffee, snacks, Eatables",
-              location_description: "Gate No.1 circulating area.",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -813,6 +806,41 @@ export const station_list = [
               facility_name: "First Aid Room",
               purpose: "Health",
               location_description: "North unpaid concourse",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Amrit Sanjivini Medical Store",
+              purpose: null,
+              location_description:
+                "North Unpaid Concourse Gate no. 4(four) Gallery",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Superb Path lab",
+              purpose: null,
+              location_description:
+                "North Unpaid Concourse Gate no. 4(four) Gallery",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Shree Med Plus Pharmacy",
+              purpose: null,
+              location_description: "South Concourse Gate no. 2(two) Gallery",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -889,9 +917,21 @@ export const station_list = [
           "icon-class": "flaticon-restaurant",
           detail_list: [
             {
-              facility_name: "AVA MUNCH",
-              purpose: "Coffee, snacks, Eatables",
-              location_description: "North unpaid concourse",
+              facility_name: "Dogra Foods shop",
+              purpose: null,
+              location_description:
+                "North Unpaid Concourse Gate no. 4(four) Gallery",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Underground Your F&B Outlet",
+              purpose: null,
+              location_description: "South Concourse Gate no. 2(two) Gallery",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -943,11 +983,11 @@ export const station_list = [
                   file: "/media/original_images/Placeholder.webp",
                 },
                 connected_with_metro: true,
-                distance_from_metro: 0.01,
+                distance_from_metro: 0.5,
                 nearest_gate_name: "",
                 nearest_gate_code: "",
-                estimated_walking_time_min: 1,
-                estimated_pub_transport_time_min: 1,
+                estimated_walking_time_min: 5,
+                estimated_pub_transport_time_min: 5,
               },
               {
                 types_of_place: "Hospital",
@@ -957,11 +997,46 @@ export const station_list = [
                   file: "/media/original_images/Placeholder.webp",
                 },
                 connected_with_metro: true,
-                distance_from_metro: 0.01,
+                distance_from_metro: 0.5,
                 nearest_gate_name: "",
                 nearest_gate_code: "",
-                estimated_walking_time_min: 1,
-                estimated_pub_transport_time_min: 1,
+                estimated_walking_time_min: 5,
+                estimated_pub_transport_time_min: 5,
+              },
+              {
+                types_of_place: "Hospital",
+                name: "AIIMS Trauma Centre",
+                photograph_mapping: {
+                  title: "Placeholder.webp",
+                  file: "/media/original_images/Placeholder.webp",
+                },
+                connected_with_metro: false,
+                distance_from_metro: 1,
+                nearest_gate_name: "",
+                nearest_gate_code: "",
+                estimated_walking_time_min: 10,
+                estimated_pub_transport_time_min: 10,
+              },
+            ],
+          },
+        },
+        {
+          Travel: {
+            "Railway Station": [
+              { "icon-class": "flaticon-subway" },
+              {
+                types_of_place: "Railway Station",
+                name: "Safdarjung Railway Station",
+                photograph_mapping: {
+                  title: "Placeholder.webp",
+                  file: "/media/original_images/Placeholder.webp",
+                },
+                connected_with_metro: false,
+                distance_from_metro: 4,
+                nearest_gate_name: "",
+                nearest_gate_code: "",
+                estimated_walking_time_min: 12,
+                estimated_pub_transport_time_min: 12,
               },
             ],
           },
@@ -1129,7 +1204,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -1144,7 +1219,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -1159,7 +1234,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -1174,7 +1249,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -1189,7 +1264,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -1204,7 +1279,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -1219,7 +1294,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -1234,7 +1309,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -1249,7 +1324,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -1264,7 +1339,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -1279,7 +1354,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -1294,7 +1369,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -1309,7 +1384,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -1324,7 +1399,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -1339,7 +1414,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -1679,7 +1754,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -1694,7 +1769,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -1709,7 +1784,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -1724,7 +1799,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -1739,7 +1814,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -1754,7 +1829,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -1769,7 +1844,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -1784,7 +1859,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -1799,7 +1874,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -1814,7 +1889,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -1829,7 +1904,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -1844,7 +1919,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -2349,7 +2424,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -2364,7 +2439,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -2379,7 +2454,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -2394,7 +2469,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -2409,7 +2484,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -2424,7 +2499,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -2439,7 +2514,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -2454,7 +2529,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -2469,7 +2544,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -2484,7 +2559,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -2499,7 +2574,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -2514,7 +2589,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -2529,7 +2604,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -2544,7 +2619,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -2559,7 +2634,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -3039,7 +3114,7 @@ export const station_list = [
       station_name: "ARJAN GARH",
       station_commercial_name: null,
       station_description:
-        "The ARJANGARH metro station is an elevated station located on yellow line of the Delhi Metro between Ghitorni and Guru Dronacharya. The station is last station of Delhi towards Gurugram and located on M G Road.\nAyanagar village is located nearby gate1. The Aravali Biodiversity Park is on walking distance towards Gurugram. Sanskriti Museum is located nearby. Local fruit market is located near gate 1. MANOKAAMNA SIDH Hanuman Mandir and Local fruit market is located near gate 1.  Air force Station and Indian meteorological department centre are located nearby area.",
+        "The ARJANGARH metro station is an elevated station located on yellow line of the Delhi Metro between Ghitorni and Guru Dronacharya. The station is last station of Delhi towards Gurugram and located on M G Road.\r\nAyanagar village is located nearby gate1. The Aravali Biodiversity Park is on walking distance towards Gurugram. Sanskriti Museum is located nearby. Local fruit market is located near gate 1. MANOKAAMNA SIDH Hanuman Mandir and Local fruit market is located near gate 1.  Air force Station and Indian meteorological department centre are located nearby area.",
       station_type: "Elevated",
       interchange: false,
       latitude: "28.4809",
@@ -3108,7 +3183,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -3123,7 +3198,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -3138,7 +3213,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3153,7 +3228,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3168,7 +3243,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3183,7 +3258,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3198,7 +3273,22 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Escalator No. 4",
+          description_location: "Unpaid concourse to Ground",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "3 days 23 minutes ago",
         },
       ],
       platforms: [
@@ -3260,6 +3350,23 @@ export const station_list = [
               facility_name: "Token Vending Machines",
               purpose: "Token Issue or Recharge Smart cards",
               location_description: "Near frisking point",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Other Public Services",
+          "icon-class": "flaticon-clerk",
+          detail_list: [
+            {
+              facility_name: "National Institute of Communication Finance.",
+              purpose: null,
+              location_description: "At Gate no 2",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -3458,7 +3565,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -3473,7 +3580,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -3488,7 +3595,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -3503,7 +3610,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3518,7 +3625,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3533,7 +3640,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3548,7 +3655,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3563,7 +3670,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -3887,7 +3994,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -3902,7 +4009,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -3917,7 +4024,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -3932,7 +4039,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3947,7 +4054,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3962,7 +4069,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -3977,7 +4084,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -4281,7 +4388,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4296,7 +4403,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4312,7 +4419,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4328,7 +4435,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4343,7 +4450,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4358,7 +4465,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -4373,7 +4480,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -4388,7 +4495,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -4404,7 +4511,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -4420,7 +4527,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -4435,7 +4542,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -4839,7 +4946,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4854,7 +4961,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4869,7 +4976,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4884,7 +4991,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4899,7 +5006,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4914,7 +5021,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4929,7 +5036,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4944,7 +5051,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4959,7 +5066,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4974,7 +5081,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -4989,7 +5096,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -5004,7 +5111,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -5019,7 +5126,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -5034,7 +5141,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -5049,7 +5156,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -5064,7 +5171,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -5079,7 +5186,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -5094,7 +5201,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -5109,7 +5216,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -5124,7 +5231,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -5139,7 +5246,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -5154,7 +5261,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
       ],
       platforms: [
@@ -5295,23 +5402,6 @@ export const station_list = [
               facility_name: "Recharge Card Terminal Machine (Pink Line)",
               purpose: "smart card recharge",
               location_description: "Gate No. 4",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
-        {
-          kind: "Travel",
-          "icon-class": "flaticon-public-transport",
-          detail_list: [
-            {
-              facility_name: "Yulu Bikes",
-              purpose: "Electric Bikes",
-              location_description: "Outside Gate no. 3",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -5501,17 +5591,7 @@ export const station_list = [
           },
         },
       ],
-      feeder: [
-        {
-          route_num: "ML-51",
-          origin_from: "Azadpur Metro Station",
-          destination: "GokalPuri Metro Station",
-          area_covered:
-            "Azadpur MS, Model Town MS, GTB  Nagar MS, Vishwa vidyalaya MS, timarpur,balak ram hospital,police station tirampur,wazirabad x-ing, gurudwara nanaksar,rajiv vihar, khazuri khas, bhajanpura, yamana vihar b block, brij vihar, c-block yamana vihar, Gokalpuri",
-          service_frequency: "10-15 Mins",
-          fare: "Rs. 5 to 15",
-        },
-      ],
+      feeder: [],
       first_last_train: [{ weekdays: [] }, { saturday: [] }, { sunday: [] }],
     },
   },
@@ -5660,7 +5740,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -5675,7 +5755,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -5690,7 +5770,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -5705,7 +5785,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -5720,7 +5800,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -5735,7 +5815,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -5750,7 +5830,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -6146,7 +6226,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -6161,7 +6241,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -6176,7 +6256,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -6191,7 +6271,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -6206,7 +6286,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -6221,7 +6301,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -6236,7 +6316,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -6251,7 +6331,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -6266,7 +6346,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -6570,7 +6650,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -6585,7 +6665,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -6600,7 +6680,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -6615,7 +6695,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -6630,7 +6710,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -6645,7 +6725,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -6660,7 +6740,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -6675,7 +6755,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -7015,7 +7095,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -7030,7 +7110,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -7045,7 +7125,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -7060,7 +7140,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -7075,7 +7155,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -7090,7 +7170,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -7105,7 +7185,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -7120,7 +7200,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -7135,7 +7215,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -7564,7 +7644,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -7579,7 +7659,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -7594,7 +7674,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -7609,7 +7689,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -7624,7 +7704,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -7639,7 +7719,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -7654,7 +7734,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -7669,7 +7749,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -7684,7 +7764,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -8011,7 +8091,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -8026,7 +8106,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -8041,7 +8121,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -8056,7 +8136,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -8071,7 +8151,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -8414,7 +8494,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -8429,7 +8509,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -8444,7 +8524,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -8460,7 +8540,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -8475,7 +8555,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -8490,7 +8570,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -8505,7 +8585,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -8520,7 +8600,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -8978,7 +9058,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -8993,7 +9073,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -9008,7 +9088,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9023,7 +9103,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9038,7 +9118,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -9053,7 +9133,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 11 minutes ago",
+          last_update: "1 year 33 days 2 hours 12 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -9068,7 +9148,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 8 minutes ago",
+          last_update: "1 year 33 days 2 hours 9 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -9083,7 +9163,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 9 minutes ago",
+          last_update: "1 year 33 days 2 hours 10 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -9098,7 +9178,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 9 minutes ago",
+          last_update: "1 year 33 days 2 hours 10 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -9113,7 +9193,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 9 minutes ago",
+          last_update: "1 year 33 days 2 hours 10 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9128,7 +9208,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 10 minutes ago",
+          last_update: "1 year 33 days 2 hours 10 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9143,7 +9223,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 10 minutes ago",
+          last_update: "1 year 33 days 2 hours 11 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9158,7 +9238,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 10 minutes ago",
+          last_update: "1 year 33 days 2 hours 11 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9173,7 +9253,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 10 minutes ago",
+          last_update: "1 year 33 days 2 hours 11 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9188,7 +9268,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 11 minutes ago",
+          last_update: "1 year 33 days 2 hours 12 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9203,7 +9283,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: "",
-          last_update: "1 year 4 days 22 hours 11 minutes ago",
+          last_update: "1 year 33 days 2 hours 12 minutes ago",
         },
       ],
       platforms: [
@@ -9699,7 +9779,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -9714,7 +9794,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -9729,7 +9809,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -9744,7 +9824,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9759,7 +9839,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9774,7 +9854,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9789,7 +9869,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -9804,7 +9884,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -10207,7 +10287,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10222,7 +10302,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10237,7 +10317,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10252,7 +10332,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -10267,7 +10347,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -10282,7 +10362,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -10297,7 +10377,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10312,7 +10392,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10327,7 +10407,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10342,7 +10422,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10357,7 +10437,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -10372,7 +10452,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -10387,7 +10467,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -10402,7 +10482,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
       ],
       platforms: [
@@ -10701,7 +10781,7 @@ export const station_list = [
               },
               {
                 types_of_place: "Tourist Place",
-                name: "Mughal garden",
+                name: "amrit udyan",
                 photograph_mapping: {
                   title: "trailblazers.jpg",
                   file: "/media/original_images/trailblazers.jpg",
@@ -10868,7 +10948,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10883,7 +10963,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10898,7 +10978,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10913,7 +10993,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -10928,7 +11008,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -10943,7 +11023,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10958,7 +11038,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10973,7 +11053,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -10988,7 +11068,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11003,7 +11083,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -11424,7 +11504,7 @@ export const station_list = [
       station_name: "CHAWRI BAZAR",
       station_commercial_name: null,
       station_description:
-        "Chawri Bazar Metro Station is an underground station located yellow line of the Delhi Metro. Asia’s largest whole sale market Sadar Bazar and historical place Ajmeri gate is near to this metro station.\nThis station is located in the very congested chawri bazaar locality of Old Delhi. It is the second deepest metro station after Hauz Khas of magenta line. It is constructed by new Austrian Tunnelling method. Two vertical shafts are constructed in the small area available in this congested locality. These two shafts are ingress/egress point of the station and house station operational area and passenger amenities. Station building consists of 7 floors at north end and 11 floors at south end.",
+        "Chawri Bazar Metro Station is an underground station located yellow line of the Delhi Metro. Asia’s largest whole sale market Sadar Bazar and historical place Ajmeri gate is near to this metro station.\r\nThis station is located in the very congested chawri bazaar locality of Old Delhi. It is the second deepest metro station after Hauz Khas of magenta line. It is constructed by new Austrian Tunnelling method. Two vertical shafts are constructed in the small area available in this congested locality. These two shafts are ingress/egress point of the station and house station operational area and passenger amenities. Station building consists of 7 floors at north end and 11 floors at south end.",
       station_type: "Underground",
       interchange: false,
       latitude: "28.6488",
@@ -11485,7 +11565,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -11500,7 +11580,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -11515,7 +11595,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -11530,7 +11610,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11545,7 +11625,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11560,7 +11640,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 154 days 13 hours 50 minutes ago",
+          last_update: "1 year 182 days 17 hours 51 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11575,7 +11655,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11590,7 +11670,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11605,7 +11685,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11620,7 +11700,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11635,7 +11715,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11650,7 +11730,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11665,7 +11745,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11680,7 +11760,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11695,7 +11775,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11710,7 +11790,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11725,7 +11805,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11740,7 +11820,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -11755,7 +11835,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -12112,8 +12192,8 @@ export const station_list = [
           available_outside_inside: "Outside",
           divyang_friendly: false,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          note: "",
+          last_update: "11 days 3 hours 2 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -12128,7 +12208,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -12143,7 +12223,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -12158,7 +12238,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -12173,7 +12253,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -12188,7 +12268,37 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 4",
+          description_location: "unpaid concourse to ground at gate no 1",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: false,
+          note: "",
+          last_update: "11 days 3 hours 11 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 5",
+          description_location: "FOB to ground (towards Chhatarpur mandir)",
+          code: "EC5",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: false,
+          note: "",
+          last_update: "11 days 3 hours 9 minutes ago",
         },
       ],
       platforms: [
@@ -12232,28 +12342,6 @@ export const station_list = [
             {
               facility_name: "Sulabh Toilet",
               purpose: "Public Toilet",
-              location_description: "Ground Level near Gate No. 1",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "Sulabh Toilet",
-              purpose: "Public Toilet",
-              location_description: "Ground Level near Gate No. 2",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "Sulabh Toilet",
-              purpose: "Public Toilet",
               location_description: "MMI Area Near Gate no-1",
               nearest_gate_name: "",
               nearest_gate_code: "",
@@ -12283,6 +12371,23 @@ export const station_list = [
               facility_name: "WH Smith",
               purpose: "Coffee, snacks, Eatables, Shopping",
               location_description: "Near Gate no-1",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Kiosk",
+          "icon-class": "flaticon-food-stand",
+          detail_list: [
+            {
+              facility_name: "Mother dairy",
+              purpose: null,
+              location_description: "unpaid concourse near gate no 1",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -12538,7 +12643,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -12553,7 +12658,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -12568,7 +12673,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -12583,7 +12688,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -12598,7 +12703,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -12613,7 +12718,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -12628,7 +12733,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -12643,7 +12748,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -12658,7 +12763,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -12988,7 +13093,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -13003,7 +13108,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -13018,7 +13123,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -13033,7 +13138,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -13048,7 +13153,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
       ],
       platforms: [
@@ -13297,7 +13402,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -13312,7 +13417,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -13327,7 +13432,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -13342,7 +13447,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -13659,7 +13764,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -13674,7 +13779,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -13689,7 +13794,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -13704,7 +13809,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -13719,7 +13824,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -13734,7 +13839,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -13749,7 +13854,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -13764,7 +13869,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -14119,7 +14224,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -14134,7 +14239,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -14149,7 +14254,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -14164,7 +14269,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -14179,7 +14284,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -14194,7 +14299,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -14209,7 +14314,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -14224,7 +14329,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -14614,7 +14719,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -14629,7 +14734,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -14644,7 +14749,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -14659,7 +14764,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -14674,7 +14779,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -14689,7 +14794,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -14995,7 +15100,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -15010,7 +15115,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -15025,7 +15130,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -15040,7 +15145,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -15055,7 +15160,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -15070,7 +15175,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -15085,7 +15190,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -15420,7 +15525,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -15435,7 +15540,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -15450,7 +15555,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -15465,7 +15570,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -15480,7 +15585,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -15495,7 +15600,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -15510,7 +15615,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -15525,7 +15630,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -15540,7 +15645,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -15555,7 +15660,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -16015,7 +16120,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16030,7 +16135,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16045,7 +16150,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16060,7 +16165,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16075,7 +16180,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16090,7 +16195,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16105,7 +16210,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -16120,7 +16225,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -16135,7 +16240,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -16150,7 +16255,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -16165,7 +16270,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -16180,7 +16285,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -16610,7 +16715,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16625,7 +16730,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16640,7 +16745,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16655,7 +16760,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16670,7 +16775,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -16685,7 +16790,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -16700,7 +16805,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -16715,7 +16820,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -16730,7 +16835,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -17267,7 +17372,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17282,7 +17387,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17297,7 +17402,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17312,7 +17417,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17327,7 +17432,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17342,7 +17447,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17357,7 +17462,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17372,7 +17477,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17387,7 +17492,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17402,7 +17507,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17417,7 +17522,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17432,7 +17537,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17447,7 +17552,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17462,7 +17567,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -17477,7 +17582,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -17492,7 +17597,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -17507,7 +17612,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -17522,7 +17627,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -17537,7 +17642,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17552,7 +17657,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17567,7 +17672,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17582,7 +17687,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17597,7 +17702,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -17612,7 +17717,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -17627,7 +17732,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -17642,7 +17747,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -17657,7 +17762,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -17779,31 +17884,9 @@ export const station_list = [
           "icon-class": "flaticon-food-stand",
           detail_list: [
             {
-              facility_name: "SBI Card",
-              purpose: "Credit Card",
-              location_description: "Interchange Area",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "Cashify",
-              purpose: "Mobile Facilities",
-              location_description: "Interchange Area",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "Cashify",
-              purpose: "Mobile Facilities",
-              location_description: "Interchange Area",
+              facility_name: "Mother Dairy",
+              purpose: null,
+              location_description: "lower paid concourse",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -17894,6 +17977,28 @@ export const station_list = [
               facility_name: "AVA Munch",
               purpose: "Coffee, snacks, Eatables",
               location_description: "Interchange Area",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Jumbo King, Jole, Sub.Wub",
+              purpose: null,
+              location_description: "interchange area",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Punjab Agro Food Go",
+              purpose: null,
+              location_description: "interchange area (lower paid concourse)",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -18216,7 +18321,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -18231,7 +18336,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -18246,7 +18351,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -18261,7 +18366,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -18276,7 +18381,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -18781,7 +18886,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18796,7 +18901,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18811,7 +18916,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18826,7 +18931,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18842,7 +18947,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18858,7 +18963,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18874,7 +18979,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18890,7 +18995,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18906,7 +19011,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18922,7 +19027,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18938,7 +19043,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Travelator",
@@ -18954,7 +19059,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -18969,7 +19074,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -18984,7 +19089,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -18999,7 +19104,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -19014,7 +19119,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -19029,7 +19134,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -19044,7 +19149,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -19059,7 +19164,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -19074,7 +19179,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -19495,7 +19600,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -19510,7 +19615,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -19525,7 +19630,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -19540,7 +19645,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -19555,7 +19660,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -19570,7 +19675,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -19585,7 +19690,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -19600,7 +19705,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -19965,7 +20070,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -19980,7 +20085,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -19995,7 +20100,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -20010,7 +20115,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -20025,7 +20130,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -20040,7 +20145,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -20334,7 +20439,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -20349,7 +20454,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -20364,7 +20469,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -20762,7 +20867,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -20777,7 +20882,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -20792,7 +20897,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -21135,7 +21240,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -21150,7 +21255,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -21165,7 +21270,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -21535,7 +21640,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -21550,7 +21655,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -21565,7 +21670,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -21947,7 +22052,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -21962,7 +22067,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -21977,7 +22082,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -22428,7 +22533,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -22443,7 +22548,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -22458,7 +22563,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -22473,7 +22578,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -22488,7 +22593,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -22503,7 +22608,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -22518,7 +22623,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -22533,7 +22638,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -22548,7 +22653,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -22563,7 +22668,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -22955,7 +23060,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -22970,7 +23075,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -22985,7 +23090,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -23288,7 +23393,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -23303,7 +23408,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -23318,7 +23423,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -23692,7 +23797,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -23707,7 +23812,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -23722,7 +23827,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -23737,7 +23842,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -23752,7 +23857,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -23767,7 +23872,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -23782,7 +23887,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -24014,7 +24119,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -24029,7 +24134,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -24044,7 +24149,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24059,7 +24164,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24074,7 +24179,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24089,7 +24194,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24104,7 +24209,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -24496,7 +24601,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -24511,7 +24616,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -24526,7 +24631,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -24541,7 +24646,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -24556,7 +24661,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24571,7 +24676,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24586,7 +24691,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24601,7 +24706,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24616,7 +24721,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -24933,7 +25038,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -24948,7 +25053,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -24963,7 +25068,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24978,7 +25083,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -24993,7 +25098,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -25008,7 +25113,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -25354,7 +25459,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -25369,7 +25474,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -25384,7 +25489,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -25399,7 +25504,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -25414,7 +25519,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -25429,7 +25534,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -25444,7 +25549,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -25459,7 +25564,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -25732,7 +25837,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -25747,7 +25852,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -25762,7 +25867,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -25777,7 +25882,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -25792,7 +25897,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -25807,7 +25912,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -25822,7 +25927,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -25837,7 +25942,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -25863,40 +25968,6 @@ export const station_list = [
         },
       ],
       stations_facilities: [
-        {
-          kind: "Token/Automatic Vending Machine",
-          "icon-class": "flaticon-vending",
-          detail_list: [
-            {
-              facility_name: "Token Vending Machines",
-              purpose: "Token Issue or Recharge Smart cards",
-              location_description: "Near frisking point",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
-        {
-          kind: "Medical/Health",
-          "icon-class": "flaticon-hospital",
-          detail_list: [
-            {
-              facility_name: "First Aid Room",
-              purpose: "Health",
-              location_description: "Near Exit Customer Care Center",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
         {
           kind: "Toilet",
           "icon-class": "flaticon-toilet",
@@ -25933,6 +26004,74 @@ export const station_list = [
               facility_name: "M/S R CUBE PROJECTS PRIVATE LIMITED",
               purpose: "Office",
               location_description: "Concourse near Gate No 2",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Medical/Health",
+          "icon-class": "flaticon-hospital",
+          detail_list: [
+            {
+              facility_name: "First Aid Room",
+              purpose: "Health",
+              location_description: "Near Exit Customer Care Center",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Food / Restaurant",
+          "icon-class": "flaticon-restaurant",
+          detail_list: [
+            {
+              facility_name: "Domino's",
+              purpose: null,
+              location_description: "unpaid gallary near Gate-02",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Token/Automatic Vending Machine",
+          "icon-class": "flaticon-vending",
+          detail_list: [
+            {
+              facility_name: "Token Vending Machines",
+              purpose: "Token Issue or Recharge Smart cards",
+              location_description: "Near frisking point",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Other Public Services",
+          "icon-class": "flaticon-clerk",
+          detail_list: [
+            {
+              facility_name: "EV charging point",
+              purpose: null,
+              location_description: "available in parking",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -26110,7 +26249,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -26125,7 +26264,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -26140,7 +26279,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -26155,7 +26294,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -26170,7 +26309,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -26185,7 +26324,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -26200,7 +26339,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -26215,7 +26354,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -26469,9 +26608,9 @@ export const station_list = [
           gate_name: "Gate No. 2",
           gate_code: "GA2",
           location: "Noida golf Course",
-          gate_latitude: "",
-          gate_longitude: "",
-          divyang_friendly: false,
+          gate_latitude: null,
+          gate_longitude: null,
+          divyang_friendly: true,
           status: "open",
         },
         {
@@ -26498,7 +26637,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -26513,7 +26652,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -26528,7 +26667,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -26543,7 +26682,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -26558,7 +26697,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 21 days 17 hours 35 minutes ago",
+          last_update: "1 year 49 days 21 hours 35 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -26573,7 +26712,37 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Lift No. 4",
+          description_location: "Unpaid Concourse to Ground",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 6 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 4",
+          description_location: "Unpaid Concourse to Ground",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 5 minutes ago",
         },
       ],
       platforms: [
@@ -26834,7 +27003,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -26849,7 +27018,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -26864,7 +27033,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -26879,7 +27048,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -26894,7 +27063,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -26909,7 +27078,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -26924,7 +27093,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -27423,7 +27592,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -27438,7 +27607,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -27453,7 +27622,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -27468,7 +27637,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -27483,7 +27652,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -27498,7 +27667,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -27513,7 +27682,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -27528,7 +27697,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -27864,7 +28033,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -27879,7 +28048,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -27894,7 +28063,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -27909,7 +28078,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -27924,7 +28093,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -27939,7 +28108,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -27949,12 +28118,14 @@ export const station_list = [
           from_gate_code: [],
           to_gate_code: [],
           from_platform_code: [],
-          to_platform_code: [],
+          to_platform_code: [
+            { platform_name: "Platform No. 1", platform_code: "PL1" },
+          ],
           available_outside_inside: "Outside",
           divyang_friendly: true,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          note: "",
+          last_update: "11 days 3 hours 13 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -27969,7 +28140,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -27984,7 +28155,22 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Lift No. 4",
+          description_location: "Conourse to Ground level",
+          code: "LA4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: false,
+          note: "",
+          last_update: "3 days 50 minutes ago",
         },
       ],
       platforms: [
@@ -28080,6 +28266,34 @@ export const station_list = [
               facility_name: "UBER",
               purpose: "APP Based Cab booking",
               location_description: "Unpaid Concourse",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Food / Restaurant",
+          "icon-class": "flaticon-restaurant",
+          detail_list: [
+            {
+              facility_name: "M/s Punjab Agro",
+              purpose: null,
+              location_description: "south paid concourse area",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Punjab Agro Kiosk",
+              purpose: null,
+              location_description: "south paid concourse area",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -28377,7 +28591,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -28392,7 +28606,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -28407,7 +28621,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -28422,7 +28636,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -28437,7 +28651,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -28452,7 +28666,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -28467,7 +28681,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -28482,7 +28696,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -28821,7 +29035,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -28836,7 +29050,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -28851,7 +29065,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -28866,7 +29080,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -28881,7 +29095,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -28896,7 +29110,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -28911,7 +29125,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -28926,7 +29140,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -28941,7 +29155,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -28956,7 +29170,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
       ],
       platforms: [
@@ -29035,6 +29249,28 @@ export const station_list = [
               facility_name: "SBI Card",
               purpose: "Credit Card",
               location_description: "Unpaid Concourse north side",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Punjab Agro",
+              purpose: null,
+              location_description: null,
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "W H Smith",
+              purpose: null,
+              location_description: null,
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -29345,7 +29581,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -29360,7 +29596,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -29375,7 +29611,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -29390,7 +29626,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -29405,7 +29641,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -29420,7 +29656,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -29435,7 +29671,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -29450,7 +29686,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -29774,7 +30010,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -29789,7 +30025,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -29804,7 +30040,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -29819,7 +30055,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -29834,7 +30070,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -29849,7 +30085,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -30310,7 +30546,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30325,7 +30561,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30340,7 +30576,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30355,7 +30591,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30370,7 +30606,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30385,7 +30621,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30400,7 +30636,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30415,7 +30651,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30430,7 +30666,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30445,7 +30681,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30460,7 +30696,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30475,7 +30711,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30490,7 +30726,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30505,7 +30741,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30520,7 +30756,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30535,7 +30771,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30550,7 +30786,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30566,7 +30802,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30582,7 +30818,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -30598,7 +30834,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -30614,7 +30850,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -30630,7 +30866,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -30645,7 +30881,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -30660,7 +30896,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -30676,7 +30912,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -30692,7 +30928,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30707,7 +30943,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30722,7 +30958,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30737,7 +30973,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -30752,7 +30988,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -30767,7 +31003,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -30782,7 +31018,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -31349,7 +31585,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -31364,7 +31600,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -31379,7 +31615,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -31394,7 +31630,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -31409,7 +31645,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -31424,7 +31660,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -31439,7 +31675,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -31454,7 +31690,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -31469,7 +31705,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -31766,7 +32002,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -31781,7 +32017,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -31796,7 +32032,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -31811,7 +32047,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -31826,7 +32062,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -31841,7 +32077,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -31856,7 +32092,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -32256,7 +32492,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -32271,7 +32507,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -32286,7 +32522,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -32301,7 +32537,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -32316,7 +32552,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -32331,7 +32567,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -32346,7 +32582,22 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Lift No. 4",
+          description_location: "Unpaid Concourse to Ground Outside",
+          code: "LA4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Outside",
+          divyang_friendly: false,
+          status: false,
+          note: "",
+          last_update: "11 days 3 hours 4 minutes ago",
         },
       ],
       platforms: [
@@ -32372,6 +32623,23 @@ export const station_list = [
         },
       ],
       stations_facilities: [
+        {
+          kind: "Medical/Health",
+          "icon-class": "flaticon-hospital",
+          detail_list: [
+            {
+              facility_name: "First aid room",
+              purpose: "Health",
+              location_description: "Behind Exit Customer Care Center",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
         {
           kind: "Toilet",
           "icon-class": "flaticon-toilet",
@@ -32401,13 +32669,13 @@ export const station_list = [
           ],
         },
         {
-          kind: "Medical/Health",
-          "icon-class": "flaticon-hospital",
+          kind: "Token/Automatic Vending Machine",
+          "icon-class": "flaticon-vending",
           detail_list: [
             {
-              facility_name: "First aid room",
-              purpose: "Health",
-              location_description: "Behind Exit Customer Care Center",
+              facility_name: "Token Vending Machines",
+              purpose: "Token Issue or Recharge Smart cards",
+              location_description: "Near frisking point",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -32425,40 +32693,6 @@ export const station_list = [
               facility_name: "UBER",
               purpose: "APP Based Cab booking",
               location_description: "Unpaid Concourse",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
-        {
-          kind: "Food / Restaurant",
-          "icon-class": "flaticon-restaurant",
-          detail_list: [
-            {
-              facility_name: "Burger king",
-              purpose: "Coffee, Snacks, Eatables",
-              location_description: "Near gate no. 02 at unpaid concourse",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
-        {
-          kind: "Token/Automatic Vending Machine",
-          "icon-class": "flaticon-vending",
-          detail_list: [
-            {
-              facility_name: "Token Vending Machines",
-              purpose: "Token Issue or Recharge Smart cards",
-              location_description: "Near frisking point",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -32759,7 +32993,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -32774,7 +33008,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -32789,7 +33023,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -32804,7 +33038,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -32819,7 +33053,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -32834,7 +33068,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -32849,7 +33083,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -32864,7 +33098,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -33312,7 +33546,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -33327,7 +33561,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -33342,7 +33576,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -33357,7 +33591,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -33372,7 +33606,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -33387,7 +33621,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -33402,7 +33636,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -33417,7 +33651,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -33432,7 +33666,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -33447,7 +33681,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -33864,7 +34098,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -33879,7 +34113,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -33894,7 +34128,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -33909,7 +34143,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -33924,7 +34158,22 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 3",
+          description_location: "unpaid concourse to Ground",
+          code: "EC3",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Outside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 37 minutes ago",
         },
       ],
       platforms: [
@@ -34220,7 +34469,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -34235,7 +34484,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -34250,7 +34499,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -34265,7 +34514,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -34280,7 +34529,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -34295,7 +34544,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -34310,7 +34559,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -34325,7 +34574,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -34340,7 +34589,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -34355,7 +34604,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -34370,7 +34619,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -34385,7 +34634,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -34400,7 +34649,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -35253,7 +35502,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -35268,7 +35517,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -35283,7 +35532,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -35298,7 +35547,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -35313,7 +35562,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -35328,7 +35577,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -35343,7 +35592,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -35358,7 +35607,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -35655,7 +35904,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -35670,7 +35919,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -35685,7 +35934,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -35700,7 +35949,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -35715,7 +35964,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -35730,7 +35979,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -35745,7 +35994,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -35817,13 +36066,13 @@ export const station_list = [
           ],
         },
         {
-          kind: "Water",
-          "icon-class": "flaticon-water-drop",
+          kind: "Token/Automatic Vending Machine",
+          "icon-class": "flaticon-vending",
           detail_list: [
             {
-              facility_name: "TATA Water Plant",
-              purpose: "Water",
-              location_description: "South Unpaid concourse",
+              facility_name: "Token Vending Machine",
+              purpose: "Token and smart card recharge",
+              location_description: "Unpaid Concourse",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -35841,23 +36090,6 @@ export const station_list = [
               facility_name: "Uber Kiosk",
               purpose: "Conveyance",
               location_description: "South Unpaid concourse",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
-        {
-          kind: "Token/Automatic Vending Machine",
-          "icon-class": "flaticon-vending",
-          detail_list: [
-            {
-              facility_name: "Token Vending Machine",
-              purpose: "Token and smart card recharge",
-              location_description: "Unpaid Concourse",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -36091,7 +36323,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -36106,7 +36338,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -36121,7 +36353,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -36136,7 +36368,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36151,7 +36383,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36166,7 +36398,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36181,7 +36413,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36196,7 +36428,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36211,7 +36443,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36226,7 +36458,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -36640,7 +36872,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36655,7 +36887,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36670,7 +36902,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36685,7 +36917,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -36700,7 +36932,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -36715,7 +36947,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -36730,7 +36962,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -36745,7 +36977,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -36760,7 +36992,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -37085,7 +37317,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -37100,7 +37332,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37115,7 +37347,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37130,7 +37362,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37145,7 +37377,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -37555,7 +37787,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37570,7 +37802,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37585,7 +37817,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37600,7 +37832,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37615,7 +37847,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37630,7 +37862,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37645,7 +37877,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37660,7 +37892,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37675,7 +37907,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37690,7 +37922,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37705,7 +37937,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37720,7 +37952,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37735,7 +37967,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37750,7 +37982,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -37765,7 +37997,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37780,7 +38012,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37795,7 +38027,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37810,7 +38042,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37825,7 +38057,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37840,7 +38072,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -37855,7 +38087,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37870,7 +38102,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37885,7 +38117,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -37900,7 +38132,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -38379,7 +38611,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -38394,7 +38626,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -38409,7 +38641,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -38424,7 +38656,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -38439,7 +38671,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -38454,7 +38686,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -38469,7 +38701,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -38484,7 +38716,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -38499,7 +38731,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -38994,7 +39226,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -39009,7 +39241,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -39024,7 +39256,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -39039,7 +39271,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -39054,7 +39286,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -39069,7 +39301,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -39084,7 +39316,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -39099,7 +39331,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -39114,7 +39346,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -39764,7 +39996,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -39779,7 +40011,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -39794,7 +40026,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -39809,7 +40041,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -39824,7 +40056,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -39839,7 +40071,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -39854,7 +40086,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -39869,7 +40101,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -40203,7 +40435,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -40218,7 +40450,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -40233,7 +40465,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -40248,7 +40480,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -40263,7 +40495,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -40278,7 +40510,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -40293,7 +40525,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -40715,7 +40947,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -40730,7 +40962,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -40745,7 +40977,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -40760,7 +40992,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -40775,7 +41007,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -40790,7 +41022,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -41144,7 +41376,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -41159,7 +41391,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -41174,7 +41406,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -41189,7 +41421,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -41204,7 +41436,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -41599,7 +41831,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -41614,7 +41846,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -41629,7 +41861,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -41644,7 +41876,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -41659,7 +41891,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -41674,7 +41906,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -41689,7 +41921,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -41704,7 +41936,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -41719,7 +41951,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -41734,7 +41966,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -41749,7 +41981,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -41764,7 +41996,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -42165,7 +42397,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -42180,7 +42412,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -42195,7 +42427,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -42210,7 +42442,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -42225,7 +42457,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -42240,7 +42472,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -42255,7 +42487,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -42548,7 +42780,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -42563,7 +42795,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -42578,7 +42810,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -42593,7 +42825,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -42608,7 +42840,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -42623,7 +42855,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -42638,7 +42870,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -42653,7 +42885,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -42996,7 +43228,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -43011,7 +43243,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -43026,7 +43258,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -43041,7 +43273,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -43056,7 +43288,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -43071,7 +43303,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -43086,7 +43318,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -43425,7 +43657,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -43440,7 +43672,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -43455,7 +43687,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -43470,7 +43702,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -43485,7 +43717,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -43500,7 +43732,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -43903,7 +44135,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: " Escalator",
@@ -43918,7 +44150,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: " Escalator",
@@ -43933,7 +44165,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -43948,7 +44180,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -43963,7 +44195,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -43978,7 +44210,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -43993,7 +44225,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44008,7 +44240,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44023,7 +44255,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44038,7 +44270,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44053,7 +44285,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44068,7 +44300,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44083,7 +44315,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44098,7 +44330,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44113,7 +44345,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44128,7 +44360,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -44143,7 +44375,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -44158,7 +44390,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -44173,7 +44405,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -44188,7 +44420,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -44203,7 +44435,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -44830,7 +45062,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -44845,7 +45077,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -44860,7 +45092,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -44875,7 +45107,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -44890,7 +45122,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -45255,7 +45487,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -45270,7 +45502,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -45285,7 +45517,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -45300,7 +45532,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -45315,7 +45547,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -45330,7 +45562,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -45345,7 +45577,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -45360,7 +45592,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -45375,7 +45607,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45390,7 +45622,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45405,7 +45637,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45420,7 +45652,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45435,7 +45667,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45450,7 +45682,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45465,7 +45697,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45480,7 +45712,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45495,7 +45727,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45510,7 +45742,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45525,7 +45757,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45540,7 +45772,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45555,7 +45787,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45570,7 +45802,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45585,7 +45817,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45600,7 +45832,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45615,7 +45847,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45630,7 +45862,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45645,7 +45877,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45660,7 +45892,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45675,7 +45907,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45690,7 +45922,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45705,7 +45937,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -45720,7 +45952,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -46068,7 +46300,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -46083,7 +46315,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -46098,7 +46330,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -46113,7 +46345,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -46128,7 +46360,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -46143,7 +46375,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -46158,7 +46390,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -46503,7 +46735,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -46518,7 +46750,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -46533,7 +46765,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -46548,7 +46780,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -46563,7 +46795,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -47217,7 +47449,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47232,7 +47464,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47247,7 +47479,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47262,7 +47494,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47277,7 +47509,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47292,7 +47524,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47307,7 +47539,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47322,7 +47554,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47337,7 +47569,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47352,7 +47584,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47367,7 +47599,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47383,7 +47615,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47399,7 +47631,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47415,7 +47647,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47430,7 +47662,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47445,7 +47677,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47460,7 +47692,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47476,7 +47708,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47492,7 +47724,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47507,7 +47739,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47523,7 +47755,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47539,7 +47771,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47555,7 +47787,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47571,7 +47803,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47587,7 +47819,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47603,7 +47835,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47618,7 +47850,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47633,7 +47865,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47648,7 +47880,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47663,7 +47895,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47678,7 +47910,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47693,7 +47925,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47708,7 +47940,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47723,7 +47955,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47739,7 +47971,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47755,7 +47987,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47771,7 +48003,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47786,7 +48018,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47801,7 +48033,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47816,7 +48048,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47831,7 +48063,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47846,7 +48078,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47861,7 +48093,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47876,7 +48108,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47891,7 +48123,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47907,7 +48139,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -47922,7 +48154,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -47937,7 +48169,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -47952,7 +48184,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -47968,7 +48200,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -47984,7 +48216,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -47999,7 +48231,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -48015,7 +48247,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
       ],
       platforms: [
@@ -48908,7 +49140,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -48923,7 +49155,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -48938,7 +49170,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -48953,7 +49185,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -48968,7 +49200,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -49284,7 +49516,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -49299,7 +49531,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -49314,7 +49546,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -49329,7 +49561,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -49344,7 +49576,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -49645,7 +49877,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -49660,7 +49892,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -49675,7 +49907,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -49690,7 +49922,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -49705,7 +49937,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -49720,7 +49952,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -49735,7 +49967,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -49750,7 +49982,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -49765,7 +49997,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -49780,7 +50012,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -49795,7 +50027,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -49810,7 +50042,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -50293,7 +50525,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -50308,7 +50540,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -50323,7 +50555,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -50338,7 +50570,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -50353,7 +50585,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -50368,7 +50600,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -50858,7 +51090,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -50873,7 +51105,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -50888,7 +51120,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -50903,7 +51135,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -50918,7 +51150,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -50933,7 +51165,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -50948,7 +51180,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -51257,7 +51489,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51272,7 +51504,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51287,7 +51519,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -51302,7 +51534,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -51317,7 +51549,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -51332,7 +51564,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -51347,7 +51579,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -51740,7 +51972,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51755,7 +51987,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51770,7 +52002,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51785,7 +52017,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51800,7 +52032,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51815,7 +52047,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51830,7 +52062,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51845,7 +52077,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51860,7 +52092,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51875,7 +52107,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51890,7 +52122,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51905,7 +52137,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51920,7 +52152,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51935,7 +52167,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -51950,7 +52182,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -51965,7 +52197,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -51980,7 +52212,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -51995,7 +52227,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -52010,7 +52242,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -52025,7 +52257,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -52040,7 +52272,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -52055,7 +52287,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -52070,7 +52302,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -52085,7 +52317,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -52615,7 +52847,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -52630,7 +52862,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -52645,7 +52877,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -52660,7 +52892,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -52675,7 +52907,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -52690,7 +52922,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -52705,7 +52937,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -52720,7 +52952,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -52735,7 +52967,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -53358,7 +53590,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53373,7 +53605,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53388,7 +53620,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53403,7 +53635,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53418,7 +53650,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -53433,7 +53665,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -53448,7 +53680,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -53463,7 +53695,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -53802,7 +54034,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53817,7 +54049,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53832,7 +54064,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53847,7 +54079,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -53862,7 +54094,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -53877,7 +54109,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53892,7 +54124,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53907,7 +54139,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 154 days 13 hours 59 minutes ago",
+          last_update: "1 year 182 days 18 hours ago",
         },
         {
           lift_type: "Escalator",
@@ -53922,7 +54154,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -53937,7 +54169,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -53952,7 +54184,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -53967,7 +54199,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -54184,7 +54416,7 @@ export const station_list = [
                   title: "Placeholder.webp",
                   file: "/media/original_images/Placeholder.webp",
                 },
-                connected_with_metro: false,
+                connected_with_metro: true,
                 distance_from_metro: 1.7,
                 nearest_gate_name: "",
                 nearest_gate_code: "",
@@ -54358,7 +54590,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -54373,7 +54605,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -54388,7 +54620,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -54403,7 +54635,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -54418,7 +54650,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -54433,7 +54665,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -54448,7 +54680,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -54463,7 +54695,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -54489,23 +54721,6 @@ export const station_list = [
         },
       ],
       stations_facilities: [
-        {
-          kind: "ATM",
-          "icon-class": "flaticon-atm-machine",
-          detail_list: [
-            {
-              facility_name: "YES Bank ATM",
-              purpose: "ATM",
-              location_description: "Concourse near Lift No. 4",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
         {
           kind: "Toilet",
           "icon-class": "flaticon-toilet",
@@ -54559,6 +54774,28 @@ export const station_list = [
               facility_name: "Cashify",
               purpose: "Mobile items",
               location_description: "Unpaid concourse near gate No.2",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Punjab Agro",
+              purpose: null,
+              location_description: "concourse opposite sulabh",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Mother Dairy",
+              purpose: null,
+              location_description: "concourse opposite lift-3",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -54921,7 +55158,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -54936,7 +55173,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -54951,7 +55188,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -54966,7 +55203,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -54981,7 +55218,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -54996,7 +55233,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -55288,7 +55525,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -55303,7 +55540,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -55318,7 +55555,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -55333,7 +55570,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -55348,7 +55585,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -55363,7 +55600,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -55683,7 +55920,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -55698,7 +55935,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -55713,7 +55950,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -55728,7 +55965,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -55743,7 +55980,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -55758,7 +55995,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -56031,7 +56268,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -56046,7 +56283,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -56061,7 +56298,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -56076,7 +56313,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -56091,7 +56328,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -56106,7 +56343,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -56121,7 +56358,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -56136,7 +56373,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -56465,7 +56702,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -56480,7 +56717,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -56495,7 +56732,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -56510,7 +56747,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -56525,7 +56762,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -56540,7 +56777,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -56555,7 +56792,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -56570,7 +56807,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -56585,7 +56822,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -56751,7 +56988,7 @@ export const station_list = [
           "icon-class": "flaticon-restaurant",
           detail_list: [
             {
-              facility_name: "Food Track IRCTC",
+              facility_name: "AVA Solution",
               purpose: "Coffee, snacks, Eatables",
               location_description: "South unpaid concourse gallery",
               nearest_gate_name: "",
@@ -56762,9 +56999,20 @@ export const station_list = [
               nearest_lift_code: "",
             },
             {
-              facility_name: "AVA Solution",
-              purpose: "Coffee, snacks, Eatables",
-              location_description: "South unpaid concourse gallery",
+              facility_name: "Punjab Agro Kiosk",
+              purpose: null,
+              location_description: "south  paid concourse area",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Mitro Bite kiosk",
+              purpose: null,
+              location_description: "south unpaid area",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -57019,7 +57267,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57034,7 +57282,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57049,7 +57297,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -57064,7 +57312,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -57079,7 +57327,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -57094,7 +57342,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -57467,10 +57715,10 @@ export const station_list = [
           gate_name: "Gate No. 3",
           gate_code: "GA3",
           location: "National School Of Drama",
-          gate_latitude: "",
-          gate_longitude: "",
+          gate_latitude: null,
+          gate_longitude: null,
           divyang_friendly: true,
-          status: "open",
+          status: "close",
         },
         {
           gate_name: "Gate No. 2",
@@ -57505,7 +57753,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -57520,7 +57768,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -57535,7 +57783,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -57550,7 +57798,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -57565,7 +57813,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -57580,7 +57828,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57595,7 +57843,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57610,7 +57858,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57625,7 +57873,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57640,7 +57888,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57655,7 +57903,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57670,7 +57918,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57685,7 +57933,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57700,7 +57948,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -57715,7 +57963,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -58156,7 +58404,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -58171,7 +58419,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -58186,7 +58434,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -58201,7 +58449,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -58216,7 +58464,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -58531,7 +58779,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -58546,7 +58794,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -58561,7 +58809,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -58576,7 +58824,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -58591,7 +58839,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -58606,7 +58854,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -58621,7 +58869,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -58636,7 +58884,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -58651,7 +58899,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -58666,7 +58914,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -58681,7 +58929,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -59014,7 +59262,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59029,7 +59277,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59044,7 +59292,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59059,7 +59307,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59074,7 +59322,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59089,7 +59337,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59104,7 +59352,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59119,7 +59367,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -59461,9 +59709,9 @@ export const station_list = [
         {
           gate_name: "Gate No. 4 (Pink Line)",
           gate_code: "GA4",
-          location: "Arya Samaj Mandir",
-          gate_latitude: "",
-          gate_longitude: "",
+          location: "Transport Authority",
+          gate_latitude: null,
+          gate_longitude: null,
           divyang_friendly: true,
           status: "open",
         },
@@ -59488,9 +59736,9 @@ export const station_list = [
         {
           gate_name: "Gate No. 1",
           gate_code: "GA1",
-          location: "Mvp1 Residential Area",
-          gate_latitude: "",
-          gate_longitude: "",
+          location: "IFS Apartment",
+          gate_latitude: null,
+          gate_longitude: null,
           divyang_friendly: false,
           status: "open",
         },
@@ -59509,7 +59757,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59524,7 +59772,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59539,7 +59787,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59555,7 +59803,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59571,7 +59819,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59586,7 +59834,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59601,7 +59849,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59616,7 +59864,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59631,7 +59879,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59646,7 +59894,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59661,7 +59909,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59676,7 +59924,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59692,7 +59940,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59707,7 +59955,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59722,7 +59970,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59737,7 +59985,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59752,7 +60000,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59767,7 +60015,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -59782,7 +60030,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59797,7 +60045,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -59812,7 +60060,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -59913,17 +60161,6 @@ export const station_list = [
           kind: "Food / Restaurant",
           "icon-class": "flaticon-restaurant",
           detail_list: [
-            {
-              facility_name: "Crazy Café",
-              purpose: "Eatries",
-              location_description: "Unpaid Concourse",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
             {
               facility_name: "W.H .Smith",
               purpose: "Snacks, Food Items",
@@ -60165,9 +60402,9 @@ export const station_list = [
         {
           gate_name: "Gate No. 1",
           gate_code: "GA1",
-          location: "Big Bazaar Road",
-          gate_latitude: "",
-          gate_longitude: "",
+          location: "Service lane to Sahkarita Marg",
+          gate_latitude: null,
+          gate_longitude: null,
           divyang_friendly: false,
           status: "open",
         },
@@ -60186,7 +60423,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -60201,7 +60438,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -60216,7 +60453,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -60231,7 +60468,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -60625,7 +60862,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -60640,7 +60877,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -60655,7 +60892,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -60670,7 +60907,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -60685,7 +60922,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -60700,7 +60937,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -60715,7 +60952,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -60843,6 +61080,27 @@ export const station_list = [
                 nearest_gate_code: "",
                 estimated_walking_time_min: 8,
                 estimated_pub_transport_time_min: 3,
+              },
+            ],
+          },
+        },
+        {
+          Travel: {
+            "Tourist Place": [
+              { "icon-class": "flaticon-traveller" },
+              {
+                types_of_place: "Tourist Place",
+                name: "E.O.D. (Every Other Day) Park",
+                photograph_mapping: {
+                  title: "Placeholder.webp",
+                  file: "/media/original_images/Placeholder.webp",
+                },
+                connected_with_metro: false,
+                distance_from_metro: 1,
+                nearest_gate_name: "",
+                nearest_gate_code: "",
+                estimated_walking_time_min: 5,
+                estimated_pub_transport_time_min: 5,
               },
             ],
           },
@@ -61041,7 +61299,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61056,7 +61314,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61071,7 +61329,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61086,7 +61344,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61101,7 +61359,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -61116,7 +61374,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -61131,7 +61389,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -61146,7 +61404,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -61161,7 +61419,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -61432,9 +61690,9 @@ export const station_list = [
           gate_name: "Gate No. 3",
           gate_code: "GA3",
           location: "Unitech Buisiness Park",
-          gate_latitude: "",
-          gate_longitude: "",
-          divyang_friendly: false,
+          gate_latitude: null,
+          gate_longitude: null,
+          divyang_friendly: true,
           status: "open",
         },
         {
@@ -61450,9 +61708,9 @@ export const station_list = [
           gate_name: "Gate No. 1",
           gate_code: "GA1",
           location: "Fortis Hospital",
-          gate_latitude: "",
-          gate_longitude: "",
-          divyang_friendly: false,
+          gate_latitude: null,
+          gate_longitude: null,
+          divyang_friendly: true,
           status: "open",
         },
       ],
@@ -61470,7 +61728,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61485,7 +61743,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61500,7 +61758,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61515,7 +61773,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61530,7 +61788,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61545,7 +61803,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61560,7 +61818,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -61575,7 +61833,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -61590,7 +61848,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -61605,7 +61863,67 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Lift No. 3",
+          description_location: "Paid Concourse ( FOB ) to Ground",
+          code: "LA3",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 55 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Escalator No. 9",
+          description_location: "Paid Concourse ( FOB ) to Ground",
+          code: "EC9",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 55 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 9",
+          description_location: "Paid Concourse ( FOB ) to Ground",
+          code: "EC9",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 54 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 10",
+          description_location: "Paid Concourse ( FOB ) to Ground",
+          code: "EC10",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 54 minutes ago",
         },
       ],
       platforms: [
@@ -61656,6 +61974,28 @@ export const station_list = [
               facility_name: "Sulabh Toilet",
               purpose: "Public Toilet",
               location_description: "Ground Level Near Gate 2",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Sulabh Toilet",
+              purpose: null,
+              location_description: "Ground level Near gate 3",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Sulabh Toliet",
+              purpose: null,
+              location_description: "Ground level Near AFC Entry",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -62030,7 +62370,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -62045,7 +62385,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -62060,7 +62400,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62075,7 +62415,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62090,7 +62430,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62105,7 +62445,37 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Lift No. 4",
+          description_location: "Unpaid Concourse to Ground",
+          code: "LA4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: false,
+          note: "",
+          last_update: "11 days 3 hours 37 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 4",
+          description_location: "Unpaid Concourse to Ground",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: false,
+          note: "",
+          last_update: "11 days 3 hours 36 minutes ago",
         },
       ],
       platforms: [
@@ -62421,7 +62791,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -62436,7 +62806,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -62451,7 +62821,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62466,7 +62836,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62481,7 +62851,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62496,7 +62866,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62511,7 +62881,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -62885,7 +63255,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -62900,7 +63270,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -62915,7 +63285,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -62930,7 +63300,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62945,7 +63315,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62960,7 +63330,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62975,7 +63345,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -62990,7 +63360,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -63322,7 +63692,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -63337,7 +63707,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -63352,7 +63722,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -63367,7 +63737,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -63382,7 +63752,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -63887,7 +64257,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 134 days 23 hours 42 minutes ago",
+          last_update: "1 year 163 days 3 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -63902,7 +64272,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -63917,7 +64287,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -63932,7 +64302,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -63947,7 +64317,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 134 days 23 hours 42 minutes ago",
+          last_update: "1 year 163 days 3 hours 43 minutes ago",
         },
       ],
       platforms: [
@@ -64328,7 +64698,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -64343,7 +64713,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -64358,7 +64728,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -64373,7 +64743,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -64388,7 +64758,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -64403,7 +64773,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -64696,7 +65066,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -64711,7 +65081,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -64726,7 +65096,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -64741,7 +65111,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -64756,7 +65126,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -65112,7 +65482,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65127,7 +65497,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65142,7 +65512,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65157,7 +65527,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65172,7 +65542,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65187,7 +65557,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65202,7 +65572,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65217,7 +65587,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -65232,7 +65602,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -65247,7 +65617,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -65262,7 +65632,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -65277,7 +65647,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -65512,7 +65882,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65527,7 +65897,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65542,7 +65912,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65557,7 +65927,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65572,7 +65942,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65587,7 +65957,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -65602,7 +65972,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -65617,7 +65987,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -65632,7 +66002,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -65982,7 +66352,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -65997,7 +66367,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -66012,7 +66382,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -66027,7 +66397,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -66042,7 +66412,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -66057,7 +66427,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -66072,7 +66442,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66087,7 +66457,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66102,7 +66472,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66117,7 +66487,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66132,7 +66502,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -66481,7 +66851,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -66496,7 +66866,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -66511,7 +66881,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66526,7 +66896,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66541,7 +66911,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66556,7 +66926,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66571,7 +66941,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -66888,7 +67258,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -66903,7 +67273,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -66918,7 +67288,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66933,7 +67303,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66948,7 +67318,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -66963,7 +67333,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -67343,7 +67713,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -67358,7 +67728,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -67373,7 +67743,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -67388,7 +67758,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -67403,7 +67773,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -67725,7 +68095,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -67740,7 +68110,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -67755,7 +68125,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -67770,7 +68140,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -67785,7 +68155,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -67800,7 +68170,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -68145,7 +68515,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -68160,7 +68530,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -68175,7 +68545,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -68190,7 +68560,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -68205,7 +68575,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -68220,7 +68590,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -68553,7 +68923,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -68568,7 +68938,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -68583,7 +68953,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -68598,7 +68968,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -68613,7 +68983,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -68628,7 +68998,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -68643,7 +69013,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -68658,7 +69028,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -68673,7 +69043,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -69061,7 +69431,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -69076,7 +69446,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -69091,7 +69461,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -69106,7 +69476,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -69121,7 +69491,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -69136,7 +69506,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -69151,7 +69521,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -69166,7 +69536,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -69181,7 +69551,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -69196,7 +69566,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -69211,7 +69581,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -69539,7 +69909,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -69554,7 +69924,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -69569,7 +69939,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -69584,7 +69954,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -69599,7 +69969,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -69614,7 +69984,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -70129,7 +70499,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70144,7 +70514,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70159,7 +70529,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70174,7 +70544,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70189,7 +70559,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70204,7 +70574,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70219,7 +70589,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70234,7 +70604,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70249,7 +70619,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70264,7 +70634,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70279,7 +70649,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70294,7 +70664,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70309,7 +70679,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70324,7 +70694,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70339,7 +70709,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70354,7 +70724,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70369,7 +70739,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70384,7 +70754,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -70777,7 +71147,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70792,7 +71162,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -70807,7 +71177,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70822,7 +71192,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70837,7 +71207,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -70852,7 +71222,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -71306,7 +71676,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -71321,7 +71691,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -71336,7 +71706,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -71351,7 +71721,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -71366,7 +71736,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -71381,7 +71751,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -71396,7 +71766,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -71411,7 +71781,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -71427,7 +71797,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -71442,7 +71812,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -71458,7 +71828,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -71474,7 +71844,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -71489,7 +71859,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -72059,7 +72429,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -72074,7 +72444,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -72089,7 +72459,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -72104,7 +72474,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -72119,7 +72489,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72134,7 +72504,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72149,7 +72519,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72164,7 +72534,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72179,7 +72549,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -72472,7 +72842,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -72487,7 +72857,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -72502,7 +72872,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72517,7 +72887,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72532,7 +72902,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72547,7 +72917,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -72868,7 +73238,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -72883,7 +73253,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -72898,7 +73268,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -72913,7 +73283,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72928,7 +73298,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72943,7 +73313,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72958,7 +73328,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -72973,7 +73343,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -73273,7 +73643,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -73288,7 +73658,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -73303,7 +73673,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -73318,7 +73688,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -73333,7 +73703,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -73348,7 +73718,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -73363,7 +73733,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -73378,7 +73748,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -73393,7 +73763,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -73408,7 +73778,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -73497,6 +73867,17 @@ export const station_list = [
               facility_name: "AVA Munch",
               purpose: "Food / Restaurant",
               location_description: "Paid concourse area",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "TRENDING FOOD",
+              purpose: null,
+              location_description: "south side unpaid area",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -73762,7 +74143,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -73777,7 +74158,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -73792,7 +74173,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -73807,7 +74188,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -73822,7 +74203,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 21 days 17 hours 35 minutes ago",
+          last_update: "1 year 49 days 21 hours 36 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -73837,7 +74218,37 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 21 days 17 hours 35 minutes ago",
+          last_update: "1 year 49 days 21 hours 36 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Lift No. 4",
+          description_location: "Ground to Concourse near Gate no-01",
+          code: "LA4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 22 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 4",
+          description_location: "Ground to Concourse near Gate no-02",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: false,
+          note: "",
+          last_update: "2 days 23 hours 15 minutes ago",
         },
       ],
       platforms: [
@@ -73939,6 +74350,23 @@ export const station_list = [
               facility_name: "Token Vending Machines",
               purpose: "Token Issue or Recharge Smart cards",
               location_description: "Unpaid Concourse",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Other Public Services",
+          "icon-class": "flaticon-clerk",
+          detail_list: [
+            {
+              facility_name: "Indian oil office",
+              purpose: null,
+              location_description: null,
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -74112,7 +74540,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -74127,7 +74555,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -74142,7 +74570,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74157,7 +74585,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74172,7 +74600,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74187,7 +74615,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74202,7 +74630,22 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: "",
-          last_update: "1 year 134 days 23 hours 40 minutes ago",
+          last_update: "1 year 163 days 3 hours 41 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 4",
+          description_location: "Ground to Unpaid Concourse",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 10 minutes ago",
         },
       ],
       platforms: [
@@ -74435,9 +74878,9 @@ export const station_list = [
           gate_name: "Gate No. 2",
           gate_code: "GA2",
           location: "GIP, DLF Mall",
-          gate_latitude: "",
-          gate_longitude: "",
-          divyang_friendly: false,
+          gate_latitude: null,
+          gate_longitude: null,
+          divyang_friendly: true,
           status: "open",
         },
         {
@@ -74464,7 +74907,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -74479,7 +74922,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -74494,7 +74937,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74509,7 +74952,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74524,7 +74967,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74539,7 +74982,22 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Lift No. 4",
+          description_location: "Unpaid Concourse to Ground",
+          code: "LA4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 9 minutes ago",
         },
       ],
       platforms: [
@@ -74565,23 +75023,6 @@ export const station_list = [
         },
       ],
       stations_facilities: [
-        {
-          kind: "Token/Automatic Vending Machine",
-          "icon-class": "flaticon-vending",
-          detail_list: [
-            {
-              facility_name: "Token Vending Machines",
-              purpose: "Token Issue or Recharge Smart cards",
-              location_description: "Unpaid Concourse",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
         {
           kind: "ATM",
           "icon-class": "flaticon-atm-machine",
@@ -74624,6 +75065,51 @@ export const station_list = [
               facility_name: "M R Gadgets",
               purpose: "Mobile Accesorries",
               location_description: "Near Gate No.2",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "M R Gadgets (Mobile Accesorries)",
+              purpose: null,
+              location_description: "Near Gate no 2",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Food / Restaurant",
+          "icon-class": "flaticon-restaurant",
+          detail_list: [
+            {
+              facility_name: "Fast & Fresh (Eatries)",
+              purpose: null,
+              location_description: "Near Gate no 2",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Token/Automatic Vending Machine",
+          "icon-class": "flaticon-vending",
+          detail_list: [
+            {
+              facility_name: "Token Vending Machines",
+              purpose: "Token Issue or Recharge Smart cards",
+              location_description: "Unpaid Concourse",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -74916,7 +75402,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -74931,7 +75417,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -74946,7 +75432,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74961,7 +75447,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74976,7 +75462,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -74991,7 +75477,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -75006,7 +75492,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -75342,7 +75828,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -75357,7 +75843,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -75372,7 +75858,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -75387,7 +75873,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -75402,7 +75888,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -75417,7 +75903,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -75432,7 +75918,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -75762,7 +76248,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -75777,7 +76263,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -75792,7 +76278,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -75807,7 +76293,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -75822,7 +76308,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -75837,7 +76323,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -75852,7 +76338,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -76160,7 +76646,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -76175,7 +76661,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -76190,7 +76676,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -76205,7 +76691,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -76220,7 +76706,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -76235,7 +76721,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -76250,7 +76736,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -76265,7 +76751,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -76280,7 +76766,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -76635,7 +77121,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -76650,7 +77136,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -76665,7 +77151,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -76680,7 +77166,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -76695,7 +77181,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -76710,7 +77196,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -76725,7 +77211,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -76740,7 +77226,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -77071,7 +77557,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -77086,7 +77572,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -77101,7 +77587,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -77116,7 +77602,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -77131,7 +77617,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -77146,7 +77632,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -77161,7 +77647,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -77176,7 +77662,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -77545,7 +78031,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -77560,7 +78046,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -77575,7 +78061,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -77590,7 +78076,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -77605,7 +78091,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -77620,7 +78106,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -77635,7 +78121,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -77650,7 +78136,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -77970,7 +78456,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -77985,7 +78471,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -78000,7 +78486,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -78015,7 +78501,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -78030,7 +78516,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -78045,7 +78531,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -78060,7 +78546,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -78420,7 +78906,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -78435,7 +78921,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -78450,7 +78936,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -78465,7 +78951,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -78480,7 +78966,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -78495,7 +78981,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -78510,7 +78996,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -78783,7 +79269,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -78798,7 +79284,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -78813,7 +79299,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -78828,7 +79314,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
       ],
       platforms: [
@@ -79279,7 +79765,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -79294,7 +79780,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -79309,7 +79795,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -79324,7 +79810,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -79339,7 +79825,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -79730,7 +80216,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -79745,7 +80231,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -79760,7 +80246,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -79775,7 +80261,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -79790,7 +80276,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -79805,7 +80291,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -79820,7 +80306,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -79835,7 +80321,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -79850,7 +80336,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -80174,7 +80660,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -80189,7 +80675,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -80204,7 +80690,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -80219,7 +80705,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -80234,7 +80720,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -80249,7 +80735,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -80264,7 +80750,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -80279,7 +80765,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -80656,7 +81142,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -80671,7 +81157,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -80686,7 +81172,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -80701,7 +81187,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -80716,7 +81202,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -80731,7 +81217,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -80746,7 +81232,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -80761,7 +81247,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -81002,7 +81488,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -81017,7 +81503,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -81032,7 +81518,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -81047,7 +81533,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -81062,7 +81548,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -81576,7 +82062,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -81591,7 +82077,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -81606,7 +82092,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -81621,7 +82107,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -81636,7 +82122,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -81651,7 +82137,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -81950,7 +82436,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -81965,7 +82451,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -81980,7 +82466,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -81995,7 +82481,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -82010,7 +82496,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -82025,7 +82511,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -82360,7 +82846,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -82375,7 +82861,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -82390,7 +82876,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -82405,7 +82891,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -82420,7 +82906,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -82435,7 +82921,23 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 4",
+          description_location:
+            "near Gate No-02 from Concourse to Ground floor",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: true,
+          note: "",
+          last_update: "2 days 23 hours 3 minutes ago",
         },
       ],
       platforms: [
@@ -82708,7 +83210,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -82723,7 +83225,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -82738,7 +83240,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -82753,7 +83255,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -82768,7 +83270,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -83123,7 +83625,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -83138,7 +83640,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -83153,7 +83655,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -83168,7 +83670,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -83183,7 +83685,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -83198,7 +83700,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -83213,7 +83715,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -83601,7 +84103,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -83616,7 +84118,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -83631,7 +84133,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -83646,7 +84148,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -83661,7 +84163,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -83676,7 +84178,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -84058,7 +84560,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84073,7 +84575,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -84088,7 +84590,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -84103,7 +84605,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -84153,17 +84655,6 @@ export const station_list = [
             {
               facility_name: "Sulabh Toilet",
               purpose: "Public Toilet",
-              location_description: "Ground Level near parking",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "Sulabh Toilet",
-              purpose: "Public Toilet",
               location_description: "Ground Level near Gate No.2 ",
               nearest_gate_name: "",
               nearest_gate_code: "",
@@ -84182,23 +84673,6 @@ export const station_list = [
               facility_name: "Smart-e rickshaw charging station",
               purpose: "E-rickshaw Charging stations",
               location_description: "Outside near Gate no. 1",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
-        {
-          kind: "Travel",
-          "icon-class": "flaticon-public-transport",
-          detail_list: [
-            {
-              facility_name: "Yulu Bikes",
-              purpose: "Electric Bikes",
-              location_description: "Gate No.2 circulating area.",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -84441,7 +84915,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84456,7 +84930,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84471,7 +84945,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84486,7 +84960,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84501,7 +84975,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84516,7 +84990,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84531,7 +85005,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -84546,7 +85020,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -84561,7 +85035,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -84576,7 +85050,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -84591,7 +85065,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -84606,7 +85080,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -84938,7 +85412,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84953,7 +85427,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84968,7 +85442,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -84983,7 +85457,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -84998,7 +85472,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85013,7 +85487,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85028,7 +85502,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85043,7 +85517,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -85380,7 +85854,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -85395,7 +85869,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -85410,7 +85884,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -85425,7 +85899,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -85440,7 +85914,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -85455,7 +85929,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -85470,7 +85944,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85485,7 +85959,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85500,7 +85974,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85515,7 +85989,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85530,7 +86004,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85545,7 +86019,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85560,7 +86034,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -85881,7 +86355,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -85896,7 +86370,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift ",
@@ -85911,7 +86385,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85926,7 +86400,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -85941,7 +86415,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -86228,7 +86702,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -86243,7 +86717,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -86258,7 +86732,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -86273,7 +86747,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -86288,7 +86762,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -86793,7 +87267,7 @@ export const station_list = [
           gate_latitude: null,
           gate_longitude: null,
           divyang_friendly: true,
-          status: "close",
+          status: "open",
         },
         {
           gate_name: "Gate No. 7",
@@ -86820,7 +87294,7 @@ export const station_list = [
           gate_latitude: null,
           gate_longitude: null,
           divyang_friendly: false,
-          status: "open",
+          status: "close",
         },
         {
           gate_name: "Gate No. 4",
@@ -86847,14 +87321,14 @@ export const station_list = [
           gate_latitude: null,
           gate_longitude: null,
           divyang_friendly: true,
-          status: "close",
+          status: "open",
         },
         {
           gate_name: "Gate No. 1",
           gate_code: "GA1",
           location: "Radial Road-3, Panchkuian Road , B Block, Minto Road",
-          gate_latitude: "",
-          gate_longitude: "",
+          gate_latitude: null,
+          gate_longitude: null,
           divyang_friendly: true,
           status: "open",
         },
@@ -86873,7 +87347,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -86888,7 +87362,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -86903,7 +87377,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -86918,7 +87392,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -86934,7 +87408,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -86950,7 +87424,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -86966,7 +87440,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -86982,7 +87456,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -86998,7 +87472,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -87014,7 +87488,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -87030,7 +87504,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -87046,7 +87520,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -87062,7 +87536,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -87078,7 +87552,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -87093,7 +87567,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -87108,7 +87582,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -87124,7 +87598,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -87140,7 +87614,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -87155,7 +87629,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
       ],
       platforms: [
@@ -87209,17 +87683,6 @@ export const station_list = [
           kind: "ATM",
           "icon-class": "flaticon-atm-machine",
           detail_list: [
-            {
-              facility_name: "IndusInd ATM",
-              purpose: "ATM",
-              location_description: "Concourse between B & D block",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
             {
               facility_name: "PNB ATM",
               purpose: "ATM",
@@ -87299,28 +87762,6 @@ export const station_list = [
               nearest_lift_code: "",
             },
             {
-              facility_name: "SBI Card",
-              purpose: "Credit Card",
-              location_description: "Concourse between B & D block",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "SBI Card",
-              purpose: "Credit Card",
-              location_description: "Unpaid Concourse, F Block",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
               facility_name: "AVA Munch",
               purpose: "Snacks , Fast food",
               location_description: "Concourse between A & F block",
@@ -87352,17 +87793,6 @@ export const station_list = [
               facility_name: "Pulse Active station",
               purpose: "Health check-up",
               location_description: "Unpaid Concourse, F Block",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "Lenskart",
-              purpose: "Eye Care",
-              location_description: "Concourse Near Platform no. 4",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -88065,7 +88495,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88080,7 +88510,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88095,7 +88525,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88110,7 +88540,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88125,7 +88555,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88140,7 +88570,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -88155,7 +88585,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -88170,7 +88600,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88185,7 +88615,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88200,7 +88630,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88215,7 +88645,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88230,7 +88660,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88245,7 +88675,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88260,7 +88690,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88275,7 +88705,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -88290,7 +88720,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -88305,7 +88735,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -88320,7 +88750,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -88897,7 +89327,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88912,7 +89342,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -88927,7 +89357,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -88942,7 +89372,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -88957,7 +89387,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -88972,7 +89402,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -89573,7 +90003,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 134 days 23 hours 42 minutes ago",
+          last_update: "1 year 163 days 3 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -89588,7 +90018,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -89603,7 +90033,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -89618,7 +90048,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -89633,7 +90063,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: "",
-          last_update: "1 year 134 days 23 hours 47 minutes ago",
+          last_update: "1 year 163 days 3 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -90087,7 +90517,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -90102,7 +90532,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -90117,7 +90547,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -90132,7 +90562,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -90147,7 +90577,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -90162,7 +90592,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -90540,7 +90970,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -90555,7 +90985,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -90570,7 +91000,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -90585,7 +91015,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -90600,7 +91030,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -90615,7 +91045,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -90944,7 +91374,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -90959,7 +91389,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -90974,7 +91404,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -90989,7 +91419,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91004,7 +91434,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91019,7 +91449,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91034,7 +91464,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91049,7 +91479,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -91348,7 +91778,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -91363,7 +91793,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -91378,7 +91808,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91393,7 +91823,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91408,7 +91838,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91423,7 +91853,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -91775,7 +92205,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -91790,7 +92220,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91805,7 +92235,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91820,7 +92250,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91835,7 +92265,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -91850,7 +92280,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -92196,7 +92626,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -92211,7 +92641,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -92226,7 +92656,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -92241,7 +92671,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -92256,7 +92686,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -92271,22 +92701,22 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
           name: "Lift No. 2",
-          description_location: "Paid Concourse to Platform",
+          description_location: "Unpaid concourse to Ground",
           code: "EC2",
           from_gate_code: [],
           to_gate_code: [],
           from_platform_code: [],
           to_platform_code: [],
-          available_outside_inside: "Inside",
+          available_outside_inside: "Outside",
           divyang_friendly: true,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          note: "",
+          last_update: "3 days 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -92301,7 +92731,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -92384,23 +92814,6 @@ export const station_list = [
           ],
         },
         {
-          kind: "Bank",
-          "icon-class": "flaticon-bank",
-          detail_list: [
-            {
-              facility_name: "SBI Card",
-              purpose: "Credit card services",
-              location_description: "Paid concourse",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
-        {
           kind: "Medical/Health",
           "icon-class": "flaticon-hospital",
           detail_list: [
@@ -92429,31 +92842,13 @@ export const station_list = [
           ],
         },
         {
-          kind: "Travel",
-          "icon-class": "flaticon-public-transport",
-          detail_list: [
-            {
-              facility_name: "Uber",
-              purpose: "APP Based Cab booking",
-              location_description: "EXIT AFC Gate(South)",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
-        {
           kind: "Food / Restaurant",
           "icon-class": "flaticon-restaurant",
           detail_list: [
             {
-              facility_name: "AVA MUNCH",
-              purpose: "Snacks, Eatables",
-              location_description:
-                "Unpaid concourse near north customer care center",
+              facility_name: "FoodGO",
+              purpose: null,
+              location_description: "paid concourse near South CCC",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -92490,6 +92885,15 @@ export const station_list = [
           parking_code: "PA1",
           nearest_gate_code: [],
           location: "Near Gate No. 3",
+        },
+        {
+          provider: "DMRC Authorised Parking",
+          capacity_car: 79,
+          capacity_motorcycle: 812,
+          capacity_cycle: 85,
+          parking_code: "PA2",
+          nearest_gate_code: [],
+          location: "Near Gate No. 2",
         },
       ],
       nearby_places: [
@@ -92738,7 +93142,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -92753,7 +93157,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -92768,7 +93172,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -92783,7 +93187,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -92798,7 +93202,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -92813,7 +93217,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -92828,7 +93232,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -93149,7 +93553,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -93164,7 +93568,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -93179,7 +93583,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -93194,7 +93598,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -93209,7 +93613,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -93224,7 +93628,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -93239,7 +93643,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -93254,7 +93658,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -93269,7 +93673,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -93602,7 +94006,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -93617,7 +94021,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -93632,7 +94036,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -93647,7 +94051,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -93662,7 +94066,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -93677,7 +94081,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -93692,7 +94096,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -93707,7 +94111,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -93722,7 +94126,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -94043,7 +94447,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94058,7 +94462,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94073,7 +94477,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94088,7 +94492,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94103,7 +94507,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94118,7 +94522,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94133,7 +94537,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94148,7 +94552,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94163,7 +94567,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94178,7 +94582,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94193,7 +94597,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -94208,7 +94612,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -94223,7 +94627,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -94238,7 +94642,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -94524,7 +94928,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94539,7 +94943,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94554,7 +94958,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -94569,7 +94973,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -94584,7 +94988,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -94599,7 +95003,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -94614,7 +95018,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -94973,7 +95377,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -94988,7 +95392,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -95003,7 +95407,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -95018,7 +95422,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -95033,7 +95437,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -95048,7 +95452,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -95399,7 +95803,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -95414,7 +95818,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -95429,7 +95833,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -95444,7 +95848,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -95768,7 +96172,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -95783,7 +96187,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -95798,7 +96202,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -95813,7 +96217,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -95828,7 +96232,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -95843,7 +96247,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -95858,7 +96262,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -95873,7 +96277,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -96222,7 +96626,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -96237,7 +96641,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -96252,7 +96656,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -96267,7 +96671,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -96282,7 +96686,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -96297,7 +96701,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -96312,7 +96716,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -96327,7 +96731,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -96342,7 +96746,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -96357,7 +96761,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -96653,7 +97057,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -96668,7 +97072,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -96683,7 +97087,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -96698,7 +97102,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -96713,7 +97117,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -96728,7 +97132,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -96743,7 +97147,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -96758,7 +97162,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -97037,7 +97441,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -97052,7 +97456,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -97067,7 +97471,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -97082,7 +97486,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97097,7 +97501,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97112,7 +97516,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97127,7 +97531,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97142,7 +97546,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -97404,7 +97808,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -97419,7 +97823,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -97434,7 +97838,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -97449,7 +97853,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97464,7 +97868,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97479,7 +97883,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97494,7 +97898,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97509,7 +97913,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -97788,7 +98192,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -97803,7 +98207,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -97818,7 +98222,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -97833,7 +98237,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97848,7 +98252,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97863,7 +98267,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97878,7 +98282,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -97893,7 +98297,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -98195,7 +98599,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -98210,7 +98614,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -98225,7 +98629,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -98240,7 +98644,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -98255,7 +98659,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -98270,7 +98674,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -98285,7 +98689,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -98300,7 +98704,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -98315,7 +98719,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -98623,7 +99027,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -98638,7 +99042,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -98653,7 +99057,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -98668,7 +99072,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -98683,7 +99087,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -98698,7 +99102,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -98713,7 +99117,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -98728,7 +99132,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -99161,7 +99565,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -99176,7 +99580,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -99191,7 +99595,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -99206,7 +99610,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -99221,7 +99625,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -99236,7 +99640,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -99251,7 +99655,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -99266,7 +99670,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -99581,7 +99985,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -99596,7 +100000,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -99611,7 +100015,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -99626,7 +100030,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -99641,7 +100045,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -99656,7 +100060,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -99671,7 +100075,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -99686,7 +100090,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -100043,7 +100447,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -100058,7 +100462,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -100073,7 +100477,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -100327,7 +100731,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -100342,7 +100746,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -100357,7 +100761,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -100372,7 +100776,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -100387,7 +100791,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -100818,7 +101222,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -100833,7 +101237,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -100848,7 +101252,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -100863,7 +101267,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -100878,7 +101282,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -100893,7 +101297,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -101244,7 +101648,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -101259,7 +101663,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -101274,7 +101678,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -101289,7 +101693,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -101304,7 +101708,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -101319,7 +101723,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -101334,7 +101738,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -101349,7 +101753,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -101364,7 +101768,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -101569,10 +101973,10 @@ export const station_list = [
       station_name: "SHAHEED STHAL ( NEW BUS ADDA)",
       station_commercial_name: null,
       station_description:
-        "It is one of the several Elevated stations on DMRC's metro network. For more information or queries kindly contact station officer at the following contact number: 7303498348,7290018822. ",
+        "It is one of the several Elevated stations on DMRC's metro network. For more information or queries kindly contact station officer at the following contact number: 7303498348,7290018822.",
       station_type: "Elevated",
       interchange: false,
-      latitude: " 28.6705",
+      latitude: "28.6705",
       longitude: "77.4158",
       x_coords: 6220,
       y_coords: 100,
@@ -101638,7 +102042,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -101653,7 +102057,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -101668,7 +102072,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -101683,7 +102087,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -101698,7 +102102,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -101713,7 +102117,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -101728,7 +102132,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -101743,7 +102147,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -102077,7 +102481,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -102092,7 +102496,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -102107,7 +102511,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -102122,7 +102526,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -102137,7 +102541,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -102152,7 +102556,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -102559,7 +102963,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -102574,7 +102978,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -102589,7 +102993,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -102604,7 +103008,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -102619,7 +103023,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -102634,7 +103038,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -102649,7 +103053,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -102664,7 +103068,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -102680,7 +103084,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -102695,7 +103099,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -103069,7 +103473,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -103084,7 +103488,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -103099,7 +103503,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -103114,7 +103518,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -103392,7 +103796,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -103407,7 +103811,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -103422,7 +103826,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -103437,7 +103841,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -103452,7 +103856,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -103798,7 +104202,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -103813,7 +104217,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -104065,7 +104469,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104080,7 +104484,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104095,7 +104499,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -104110,7 +104514,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -104125,7 +104529,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -104140,7 +104544,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -104155,7 +104559,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -104383,7 +104787,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104398,7 +104802,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104413,7 +104817,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -104428,7 +104832,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -104443,7 +104847,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -104458,7 +104862,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -104820,7 +105224,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104835,7 +105239,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104850,7 +105254,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104865,7 +105269,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104880,7 +105284,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104895,7 +105299,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104910,7 +105314,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104925,7 +105329,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104940,7 +105344,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104955,7 +105359,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104970,7 +105374,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -104985,7 +105389,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105000,7 +105404,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105015,7 +105419,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105030,7 +105434,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105045,7 +105449,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105060,7 +105464,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105075,7 +105479,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -105452,7 +105856,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -105467,7 +105871,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -105482,7 +105886,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -105497,7 +105901,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105512,7 +105916,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105527,7 +105931,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105542,7 +105946,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -105557,7 +105961,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -106004,7 +106408,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106019,7 +106423,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106034,7 +106438,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106049,7 +106453,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106064,7 +106468,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106079,7 +106483,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106094,7 +106498,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106109,7 +106513,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106124,7 +106528,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106139,7 +106543,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106154,12 +106558,12 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
           name: "Lift No. 4",
-          description_location: "Platfrom to FOB (Rapid Metro)",
+          description_location: "Unpaid concourse to ground",
           code: "LF4",
           from_gate_code: [],
           to_gate_code: [],
@@ -106168,8 +106572,8 @@ export const station_list = [
           available_outside_inside: "Inside",
           divyang_friendly: true,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          note: "",
+          last_update: "3 days 14 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106184,7 +106588,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106199,7 +106603,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106214,7 +106618,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106229,7 +106633,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106244,7 +106648,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106259,7 +106663,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106274,7 +106678,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106289,7 +106693,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106304,7 +106708,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106319,7 +106723,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -106366,34 +106770,6 @@ export const station_list = [
       ],
       stations_facilities: [
         {
-          kind: "ATM",
-          "icon-class": "flaticon-atm-machine",
-          detail_list: [
-            {
-              facility_name: "BOB Atm",
-              purpose: "ATM",
-              location_description: "Concourse Gallery",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-            {
-              facility_name: "Indusind",
-              purpose: "ATM",
-              location_description: "Platform-2",
-              nearest_gate_name: "",
-              nearest_gate_code: "",
-              nearest_platform_name: "",
-              nearest_platform_code: "",
-              nearest_lift_name: "",
-              nearest_lift_code: "",
-            },
-          ],
-        },
-        {
           kind: "Toilet",
           "icon-class": "flaticon-toilet",
           detail_list: [
@@ -106412,6 +106788,23 @@ export const station_list = [
               facility_name: "Sulabh Toilet",
               purpose: "Public Toilet",
               location_description: "Unpaid Concourse",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Shop/Office",
+          "icon-class": "flaticon-shop",
+          detail_list: [
+            {
+              facility_name: "W H Smith",
+              purpose: null,
+              location_description: "unpaid concourse",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -106458,16 +106851,10 @@ export const station_list = [
               nearest_lift_name: "",
               nearest_lift_code: "",
             },
-          ],
-        },
-        {
-          kind: "Medical/Health",
-          "icon-class": "flaticon-hospital",
-          detail_list: [
             {
-              facility_name: "First Aid Room",
-              purpose: "Health",
-              location_description: "Unpaid Concourse",
+              facility_name: "Punjab Agro",
+              purpose: null,
+              location_description: "unpaid concourse",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -106482,9 +106869,9 @@ export const station_list = [
           "icon-class": "flaticon-restaurant",
           detail_list: [
             {
-              facility_name: "Chips & Herbs",
-              purpose: "Coffee, Snacks, Eatables",
-              location_description: "Concourse Gallery",
+              facility_name: "Jumbo King",
+              purpose: null,
+              location_description: "unpaid concourse",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -106502,6 +106889,23 @@ export const station_list = [
               facility_name: "Token Vending Machines",
               purpose: "Token Issue or Recharge Smart cards",
               location_description: "Near frisking point",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+          ],
+        },
+        {
+          kind: "Other Public Services",
+          "icon-class": "flaticon-clerk",
+          detail_list: [
+            {
+              facility_name: "Smart E charging Station",
+              purpose: null,
+              location_description: "At Gate no 1",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -106854,7 +107258,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106869,7 +107273,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -106884,7 +107288,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106899,7 +107303,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106915,7 +107319,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106930,7 +107334,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106945,7 +107349,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -106960,7 +107364,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -107350,7 +107754,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -107365,7 +107769,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -107380,7 +107784,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -107395,7 +107799,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -107410,7 +107814,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -107425,7 +107829,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -107440,7 +107844,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -107455,7 +107859,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -107470,7 +107874,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -107485,7 +107889,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -107863,7 +108267,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -107878,7 +108282,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -107893,7 +108297,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -107908,7 +108312,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -107923,7 +108327,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -108334,7 +108738,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -108349,7 +108753,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -108364,7 +108768,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -108379,7 +108783,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -108394,7 +108798,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -108409,7 +108813,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -108424,7 +108828,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -108439,7 +108843,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -108735,9 +109139,9 @@ export const station_list = [
           gate_name: "Gate No. 1",
           gate_code: "GA1",
           location: "Sultanpur",
-          gate_latitude: "",
-          gate_longitude: "",
-          divyang_friendly: false,
+          gate_latitude: null,
+          gate_longitude: null,
+          divyang_friendly: true,
           status: "open",
         },
       ],
@@ -108755,7 +109159,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -108770,7 +109174,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -108785,7 +109189,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -108800,7 +109204,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -108815,7 +109219,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -108830,7 +109234,37 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
+        },
+        {
+          lift_type: "Escalator",
+          name: "Escalator No. 4",
+          description_location: "from ground to unpaid concourse at gate no. 2",
+          code: "EC4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: false,
+          note: "",
+          last_update: "11 days 3 hours 6 minutes ago",
+        },
+        {
+          lift_type: "Lift",
+          name: "Lift No. 4",
+          description_location: "unpaid concourse to ground towards gate no. 1",
+          code: "LA4",
+          from_gate_code: [],
+          to_gate_code: [],
+          from_platform_code: [],
+          to_platform_code: [],
+          available_outside_inside: "Inside",
+          divyang_friendly: false,
+          status: false,
+          note: "",
+          last_update: "11 days 3 hours 5 minutes ago",
         },
       ],
       platforms: [
@@ -108925,6 +109359,17 @@ export const station_list = [
               facility_name: "Signum Design Career",
               purpose: "Career counsellor",
               location_description: "Unpaid Concourse near Gate No. 2",
+              nearest_gate_name: "",
+              nearest_gate_code: "",
+              nearest_platform_name: "",
+              nearest_platform_code: "",
+              nearest_lift_name: "",
+              nearest_lift_code: "",
+            },
+            {
+              facility_name: "Canary London cloth shop",
+              purpose: null,
+              location_description: "unpaid concourse",
               nearest_gate_name: "",
               nearest_gate_code: "",
               nearest_platform_name: "",
@@ -109076,8 +109521,8 @@ export const station_list = [
           gate_name: "Gate No. 3",
           gate_code: "GA3",
           location: "ITPO Gate No-10",
-          gate_latitude: "",
-          gate_longitude: "",
+          gate_latitude: null,
+          gate_longitude: null,
           divyang_friendly: false,
           status: "open",
         },
@@ -109094,8 +109539,8 @@ export const station_list = [
           gate_name: "Gate No. 1",
           gate_code: "GA1",
           location: "Supreme Court",
-          gate_latitude: "",
-          gate_longitude: "",
+          gate_latitude: null,
+          gate_longitude: null,
           divyang_friendly: false,
           status: "open",
         },
@@ -109114,7 +109559,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -109129,7 +109574,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -109144,7 +109589,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -109159,7 +109604,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -109174,7 +109619,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -109189,7 +109634,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -109657,7 +110102,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -109672,7 +110117,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -109687,7 +110132,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -109702,7 +110147,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -110035,7 +110480,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110050,7 +110495,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110065,7 +110510,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110080,7 +110525,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110095,7 +110540,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110110,7 +110555,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110125,7 +110570,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110140,7 +110585,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110155,7 +110600,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110170,7 +110615,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110185,7 +110630,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110200,7 +110645,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110215,7 +110660,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110230,7 +110675,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110245,7 +110690,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110260,7 +110705,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110275,7 +110720,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110290,7 +110735,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -110669,7 +111114,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110684,7 +111129,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110699,7 +111144,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -110714,7 +111159,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110729,7 +111174,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110744,7 +111189,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110759,7 +111204,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -110774,7 +111219,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -110990,7 +111435,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -111005,7 +111450,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -111020,7 +111465,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -111035,7 +111480,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111050,7 +111495,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111065,7 +111510,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111080,7 +111525,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111095,7 +111540,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -111386,7 +111831,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -111401,7 +111846,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -111416,7 +111861,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111431,7 +111876,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111446,7 +111891,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111461,7 +111906,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111476,7 +111921,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -111846,7 +112291,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -111861,7 +112306,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -111876,7 +112321,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -111891,7 +112336,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111906,7 +112351,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111921,7 +112366,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -111936,7 +112381,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -112252,7 +112697,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -112267,7 +112712,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -112282,7 +112727,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -112297,7 +112742,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -112312,7 +112757,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -112327,7 +112772,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -112342,7 +112787,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -112357,7 +112802,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -112694,7 +113139,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -112709,7 +113154,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -112724,7 +113169,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -112739,7 +113184,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -112754,7 +113199,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 45 minutes ago",
+          last_update: "1 year 298 days 16 hours 46 minutes ago",
         },
       ],
       platforms: [
@@ -113101,7 +113546,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -113116,7 +113561,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -113131,7 +113576,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -113146,7 +113591,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -113161,7 +113606,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -113176,7 +113621,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -113191,7 +113636,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -113206,7 +113651,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -113221,7 +113666,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 43 minutes ago",
         },
       ],
       platforms: [
@@ -113576,7 +114021,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -113591,7 +114036,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -113606,7 +114051,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -113621,7 +114066,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -113636,7 +114081,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -113651,7 +114096,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -113666,7 +114111,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 44 minutes ago",
+          last_update: "1 year 298 days 16 hours 45 minutes ago",
         },
       ],
       platforms: [
@@ -113956,7 +114401,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -113971,7 +114416,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -113986,7 +114431,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114001,7 +114446,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114016,7 +114461,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114031,7 +114476,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -114407,7 +114852,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114422,7 +114867,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114437,7 +114882,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114452,7 +114897,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -114849,7 +115294,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -114864,7 +115309,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -114879,7 +115324,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -114894,7 +115339,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114909,7 +115354,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114924,7 +115369,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114939,7 +115384,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -114954,7 +115399,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [
@@ -115282,7 +115727,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -115297,7 +115742,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -115312,7 +115757,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -115327,7 +115772,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -115342,7 +115787,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -115357,7 +115802,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -115372,7 +115817,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -115387,7 +115832,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -115402,7 +115847,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -115749,7 +116194,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -115764,7 +116209,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -115779,7 +116224,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -115794,7 +116239,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -115809,7 +116254,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -116082,7 +116527,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -116097,7 +116542,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -116112,7 +116557,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -116127,7 +116572,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -116142,7 +116587,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -116157,7 +116602,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -116172,7 +116617,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 47 minutes ago",
+          last_update: "1 year 298 days 16 hours 48 minutes ago",
         },
       ],
       platforms: [
@@ -116564,7 +117009,7 @@ export const station_list = [
         {
           lift_type: "Escalator",
           name: "Escalator No. 4",
-          description_location: "Paid Concourse to Platform",
+          description_location: "Platform No-2 to Subway",
           code: "EC4",
           from_gate_code: [],
           to_gate_code: [],
@@ -116573,13 +117018,13 @@ export const station_list = [
           available_outside_inside: "Inside",
           divyang_friendly: false,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          note: "",
+          last_update: "11 days 3 hours 23 minutes ago",
         },
         {
           lift_type: "Escalator",
           name: "Escalator No. 3",
-          description_location: "Paid Concourse to Platform",
+          description_location: "Platform No-1 to Subway",
           code: "EC3",
           from_gate_code: [],
           to_gate_code: [],
@@ -116588,43 +117033,45 @@ export const station_list = [
           available_outside_inside: "Inside",
           divyang_friendly: false,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          note: "",
+          last_update: "11 days 3 hours 27 minutes ago",
         },
         {
           lift_type: "Escalator",
           name: "Escalator No. 2",
-          description_location: "Unpaid Concourse to Ground",
+          description_location:
+            "from Subway to South Paid Concourse/Ground  Level",
           code: "LA3",
           from_gate_code: [],
           to_gate_code: [],
           from_platform_code: [],
           to_platform_code: [],
-          available_outside_inside: "Outside",
+          available_outside_inside: "Inside",
           divyang_friendly: false,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          note: "",
+          last_update: "11 days 3 hours 29 minutes ago",
         },
         {
           lift_type: "Escalator",
           name: "Escalator No. 1",
-          description_location: "Unpaid Concourse to Ground",
+          description_location:
+            "From Subway to North Paid Concourse/Ground Level",
           code: "LA3",
           from_gate_code: [],
           to_gate_code: [],
           from_platform_code: [],
           to_platform_code: [],
-          available_outside_inside: "Outside",
+          available_outside_inside: "Inside",
           divyang_friendly: false,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          note: "",
+          last_update: "11 days 3 hours 29 minutes ago",
         },
         {
           lift_type: "Lift",
           name: "Lift No. 3",
-          description_location: "Unpaid Concourse to Ground",
+          description_location: "south subway to paid concourse",
           code: "LA3",
           from_gate_code: [],
           to_gate_code: [],
@@ -116633,13 +117080,13 @@ export const station_list = [
           available_outside_inside: "Outside",
           divyang_friendly: true,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          note: "",
+          last_update: "11 days 3 hours 21 minutes ago",
         },
         {
           lift_type: "Lift",
           name: "Lift No. 2",
-          description_location: "Paid Concourse to Platform",
+          description_location: "Subway to Platform No-2",
           code: "EC3",
           from_gate_code: [],
           to_gate_code: [],
@@ -116648,13 +117095,13 @@ export const station_list = [
           available_outside_inside: "Inside",
           divyang_friendly: true,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          note: "",
+          last_update: "11 days 3 hours 22 minutes ago",
         },
         {
           lift_type: "Lift",
           name: "Lift No. 1",
-          description_location: "Paid Concourse to Platform",
+          description_location: "Subway to Platform No-1",
           code: "EC3",
           from_gate_code: [],
           to_gate_code: [],
@@ -116663,8 +117110,8 @@ export const station_list = [
           available_outside_inside: "Inside",
           divyang_friendly: true,
           status: true,
-          note: null,
-          last_update: "1 year 270 days 12 hours 42 minutes ago",
+          note: "",
+          last_update: "11 days 3 hours 24 minutes ago",
         },
       ],
       platforms: [
@@ -117205,7 +117652,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -117220,7 +117667,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -117235,7 +117682,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -117250,7 +117697,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -117265,7 +117712,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -117280,7 +117727,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -117295,7 +117742,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -117310,7 +117757,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -117325,7 +117772,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -117340,7 +117787,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -117355,7 +117802,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -117370,7 +117817,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -117385,7 +117832,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Escalator ",
@@ -117400,7 +117847,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -117415,7 +117862,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 41 minutes ago",
+          last_update: "1 year 298 days 16 hours 42 minutes ago",
         },
       ],
       platforms: [
@@ -117825,7 +118272,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -117840,7 +118287,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Escalator",
@@ -117855,7 +118302,7 @@ export const station_list = [
           divyang_friendly: false,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -117870,7 +118317,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -117885,7 +118332,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
         {
           lift_type: "Lift",
@@ -117900,7 +118347,7 @@ export const station_list = [
           divyang_friendly: true,
           status: true,
           note: null,
-          last_update: "1 year 270 days 12 hours 43 minutes ago",
+          last_update: "1 year 298 days 16 hours 44 minutes ago",
         },
       ],
       platforms: [

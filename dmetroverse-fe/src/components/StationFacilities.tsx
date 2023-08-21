@@ -35,7 +35,7 @@ const StationFacilities: React.FC<StationFacilitiesProps> = ({ station }) => (
               </div>
             ))
           )
-        : "No facilities available"}
+        : "No food facilities found"}
     </div>
   </div>
 );
