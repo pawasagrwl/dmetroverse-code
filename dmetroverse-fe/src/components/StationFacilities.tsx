@@ -25,11 +25,11 @@ const StationFacilities: React.FC<StationFacilitiesProps> = ({ station }) => (
                   {detail.facility_name}
                 </strong>
                 <div className="flex flex-wrap">
-                  <strong>Purpose:</strong> {detail.purpose || "N/A"}
+                  <strong>Purpose: </strong> {detail.purpose || "Not Found"}
                 </div>
                 <div className="flex flex-row flex-wrap">
-                  <strong>Location:</strong>{" "}
-                  {detail.location_description || "N/A"}
+                  <strong>Location: </strong>{" "}
+                  {detail.location_description || "Not Found"}
                 </div>
                 <br />
               </div>
