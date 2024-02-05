@@ -13,3 +13,14 @@ SUGGESTIONS
 3. Use icons for data for mobile
 4. Blogbird UI for reddit posts, put news than just reddit posts
 5. Metro helpline at the footer
+
+NOTES
+1.	Server: Disable direct url access, add authorization, access run server locally to test, acess server from local frontend 
+2.	Color coding for stations:
+red: no food
+yellow: only outside
+green: inside
+3.	For no food stations, show small dot that shows full on hover
+4.	header for mobile
+5.	dark theme
+6.	language

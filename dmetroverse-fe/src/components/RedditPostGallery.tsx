@@ -14,7 +14,7 @@ const RedditPostGallery: React.FC = () => {
   const posts = redditResponse.data.children.map(child => child.data);
   return (
     <div className="max-w-md mx-auto">
-      <h2 className="font-bold text-2xl mb-2">Delhi Subreddit Posts about Metro:</h2>
+      <h2 className="font-bold text-2xl mb-2">Posts about Metro from r/Delhi:</h2>
       <div className="h-96 overflow-y-scroll border border-gray-300 m-2 p-2">
         {posts.map((post, index) => (
           <RedditPost
