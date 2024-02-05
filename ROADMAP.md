@@ -24,3 +24,4 @@ green: inside
 4.	header for mobile
 5.	dark theme
 6.	language
+7.  Station List options: alphabetical, by line color
