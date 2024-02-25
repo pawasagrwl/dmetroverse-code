@@ -11,13 +11,13 @@ const corsOptions = {
 };
 
 app.use(cors(corsOptions));
-app.use(express.json()); // If you need to parse JSON bodies
+app.use(express.json());
 
 const getCurrentTimeInIST = () => {
   const now = new Date();
   now.setHours(now.getHours() + 5 + Math.floor(now.getMinutes() / 60));
   now.setMinutes(now.getMinutes() % 60 + 30); // Adjust for IST timezone (+5:30)
-  return now.toISOString().replace('Z', ''); // Remove 'Z' to avoid implying UTC
+  return now.toISOString().replace('Z', '');
 };
 
 app.get('/', (req, res) => {

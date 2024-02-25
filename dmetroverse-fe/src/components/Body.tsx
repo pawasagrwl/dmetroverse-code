@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import FoodFacilities from "./FoodFacilities";
-import RedditPostGallery from "./RedditPostGallery";
-import JourneyForm from "./JourneyForm";
+import FoodFacilities from "./foodFacilities/FoodFacilities";
+import RedditPostGallery from "./redditPosts/RedditPostGallery";
+import JourneyForm from "./foodFacilities/JourneyForm";
 import { JourneyContext } from "../context/JourneyContext";
 
 const Body: React.FC<{
@@ -24,8 +24,12 @@ const Body: React.FC<{
             setJourneyType,
           }}
         >
-          <JourneyForm />
-          {showFoodFacilities && <FoodFacilities />}
+          {showFoodFacilities && (
+            <>
+              <JourneyForm />
+              <FoodFacilities />
+            </>
+          )}
         </JourneyContext.Provider>
       </div>
       {showRedditPosts && <RedditPostGallery />}
