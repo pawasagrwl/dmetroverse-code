@@ -1,15 +1,28 @@
+import { ThemeProvider } from './context/ThemeContext'; // Adjust the import path as necessary
 import Header from "./components/Header";
 import Body from "./components/Body";
 import Footer from "./components/Footer";
-import "./App.css";
+import { useState } from 'react';
 
 function App() {
+  const [showFoodFacilities, setShowFoodFacilities] = useState(true);
+  const [showRedditPosts, setShowRedditPosts] = useState(true);
   return (
-    <div className="App">
-      <Header />
-      <Body />
-      <Footer />
-    </div>
+    <ThemeProvider>
+      <div className="App">
+      <Header 
+        setShowFoodFacilities={setShowFoodFacilities} 
+        setShowRedditPosts={setShowRedditPosts}
+        showFoodFacilities={showFoodFacilities}
+        showRedditPosts={showRedditPosts}
+      />
+      <Body 
+        showFoodFacilities={showFoodFacilities} 
+        showRedditPosts={showRedditPosts}
+      />
+        <Footer />
+      </div>
+    </ThemeProvider>
   );
 }
 

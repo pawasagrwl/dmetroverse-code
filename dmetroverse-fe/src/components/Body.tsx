@@ -4,19 +4,31 @@ import RedditPostGallery from "./RedditPostGallery";
 import JourneyForm from "./JourneyForm";
 import { JourneyContext } from "../context/JourneyContext";
 
-const Body: React.FC = () => {
+const Body: React.FC<{
+  showFoodFacilities: boolean;
+  showRedditPosts: boolean;
+}> = ({ showFoodFacilities, showRedditPosts }) => {
   const [origin, setOrigin] = useState<string>("");
   const [destination, setDestination] = useState<string>("");
   const [journeyType, setJourneyType] = useState<string>("");
   return (
     <div>
-      <JourneyContext.Provider
-        value={{ origin, setOrigin, destination, setDestination, journeyType, setJourneyType }}
-      >
-        <JourneyForm />
-        <FoodFacilities />
-      </JourneyContext.Provider>
-      <RedditPostGallery />
+      <div>
+        <JourneyContext.Provider
+          value={{
+            origin,
+            setOrigin,
+            destination,
+            setDestination,
+            journeyType,
+            setJourneyType,
+          }}
+        >
+          <JourneyForm />
+          {showFoodFacilities && <FoodFacilities />}
+        </JourneyContext.Provider>
+      </div>
+      {showRedditPosts && <RedditPostGallery />}
     </div>
   );
 };
