@@ -22,6 +22,5 @@ yellow: only outside
 green: inside
 3.	For no food stations, show small dot that shows full on hover
 4.	header for mobile
-5.	dark theme
 6.	language
 7.  Station List options: alphabetical, by line color
